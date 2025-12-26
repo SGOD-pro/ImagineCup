@@ -2,7 +2,7 @@
 from azure.ai.vision.imageanalysis import ImageAnalysisClient
 from azure.ai.vision.imageanalysis.models import VisualFeatures
 from azure.core.credentials import AzureKeyCredential
-from app.config.main import settings
+from app.config import settings
 from typing import Dict, Any
 
 # import dotenv
@@ -35,98 +35,38 @@ doc_client = DocumentAnalysisClient(
 
 def blob_image_result(image_url: str) -> Dict[str, Any]:
     result = client.analyze_from_url(
-        image_url=image_url,   # FIXED
-        visual_features=[VisualFeatures.CAPTION, VisualFeatures.READ],
-        gender_neutral_caption=True,
+        image_url=image_url,
+        visual_features=[VisualFeatures.READ],
     )
 
-    response: Dict[str, Any] = {
-        "caption": None,
-        "ocr": {
-            "full_text": "",
-            "lines": []
-        }
-    }
+    lines = []
 
-    # ----- Caption -----
-    if result.caption:
-        response["caption"] = {
-            "text": result.caption.text,
-            "confidence": round(result.caption.confidence, 4)
-        }
-
-    # ----- OCR -----
     if result.read and result.read.blocks:
-        lines_text = []
-
         for block in result.read.blocks:
             for line in block.lines:
-                words = [
-                    {
-                        "text": word.text,
-                        "confidence": round(word.confidence, 4)
-                    }
-                    for word in line.words
-                ]
+                lines.append(line.text)
 
-                line_text = line.text
-                lines_text.append(line_text)
-
-                response["ocr"]["lines"].append({
-                    "text": line_text,
-                    "bounding_polygon": line.bounding_polygon,
-                    "words": words
-                })
-
-        response["ocr"]["full_text"] = "\n".join(lines_text)
-
-    return response
-
-    result = client.analyze_from_url(
-        image_url="/image.png",
-        visual_features=[VisualFeatures.CAPTION, VisualFeatures.READ],
-        gender_neutral_caption=True,  # Optional (default is False)
-    )
-    
-    print("Image analysis results:")
-    # Print caption results to the console
-    print(" Caption:")
-    if result.caption is not None:
-        print(f"   '{result.caption.text}', Confidence {result.caption.confidence:.4f}")
-
-    # Print text (OCR) analysis results to the console
-    print(" Read:")
-    if result.read is not None:
-        for line in result.read.blocks[0].lines:
-            print(f"   Line: '{line.text}', Bounding box {line.bounding_polygon}")
-            for word in line.words:
-                print(f"     Word: '{word.text}', Bounding polygon {word.bounding_polygon}, Confidence {word.confidence:.4f}")
+    return {
+        "source": "image",
+        "full_text": "\n".join(lines)
+    }
 
 
-def blob_doc_result(pdf_url: str) -> dict:
+
+def blob_doc_result(pdf_url: str) -> Dict[str, Any]:
     poller = doc_client.begin_analyze_document_from_url(
         model_id="prebuilt-read",
         document_url=pdf_url
     )
 
     result = poller.result()
-
-    pages = []
-    full_text = []
+    lines = []
 
     for page in result.pages:
-        page_lines = []
         for line in page.lines:
-            page_lines.append(line.content)
-            full_text.append(line.content)
-
-        pages.append({
-            "page_number": page.page_number,
-            "text": "\n".join(page_lines)
-        })
+            lines.append(line.content)
 
     return {
         "source": "pdf",
-        "pages": pages,
-        "full_text": "\n".join(full_text)
+        "full_text": "\n".join(lines)
     }
