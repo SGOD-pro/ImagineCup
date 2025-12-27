@@ -3,8 +3,8 @@ from app.ai.llm import NVDIALLM
 from app.ai.vector_serarch import similarity_search
 '''RAG Evidence Retrieval
 
-Pulls from WHO / CDC vectors
-Output = citations + snippets
+     Pulls from WHO / CDC vectors
+     Output = citations + snippets
 '''
 
 

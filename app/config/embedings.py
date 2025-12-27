@@ -11,12 +11,14 @@ embding_model = NVIDIAEmbeddings(
 
 client = QdrantClient(url=settings.QDRANT_URL,api_key=settings.QDRANT_KEY,)
 
-
-if not client.collection_exists("clinic"):
-    client.create_collection(
-        collection_name="test",
-        vectors_config=VectorParams(size=4096, distance=Distance.COSINE)
-    )
+try:
+     if not client.collection_exists("clinic"):
+          client.create_collection(
+               collection_name="test",
+               vectors_config=VectorParams(size=2048, distance=Distance.COSINE)
+          )
+except Exception as e:
+     print(e)
 
 vector_store = QdrantVectorStore(
     client=client,
