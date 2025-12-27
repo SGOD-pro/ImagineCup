@@ -1,4 +1,4 @@
-labs = (
+LAB_PROMPT = (
     "You are a medical document parser.\n"
     "Extract ONLY laboratory test results from the text below.\n"
     "Rules:\n"

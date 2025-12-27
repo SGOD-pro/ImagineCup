@@ -1,5 +1,5 @@
 from app.ai.state import ClinicalGraphState
-from app.ai.llm import NVDIALLM
+from app.ai.llm import NvidiaLLM
 from app.ai.vector_serarch import similarity_search
 '''RAG Evidence Retrieval
 

@@ -1,9 +1,19 @@
 from fastapi import FastAPI
-from uvicorn import run
-from app.api.routes import router
+from app.modules.clinical.clinical_controller import router as clinical_router
 
-app = FastAPI()
-app.include_router(router=router)
 
-if __name__ =="__main":
-    run(app, reload=True,port=8000,host="0.0.0.0")
+def create_app() -> FastAPI:
+    app = FastAPI(
+        title="ClinAssist AI",
+        version="1.0.0",
+    )
+
+    app.include_router(clinical_router)
+
+    return app
+
+
+app = create_app()
+
+#run -> uvicorn app.main:app --reload
+#prod-> uvicorn app.main:app --host 0.0.0.0 --port 8000

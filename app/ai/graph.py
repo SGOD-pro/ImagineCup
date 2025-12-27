@@ -2,18 +2,24 @@ from langgraph.graph import StateGraph, MessagesState, START, END
 from app.ai.state import ClinicalGraphState
 from app.ai.nodes import triage_agent,reasoning_agent,evidence_retrieval,ssa_node
 
-graph = StateGraph(ClinicalGraphState)
-graph.add_node(ssa_node)
-graph.add_node(reasoning_agent)
-graph.add_node(evidence_retrieval)
-graph.add_node(triage_agent)
-graph.add_edge(START, "ssa_node")
-graph.add_edge("ssa_node", "reasoning_agent")
-graph.add_edge("reasoning_agent", "evidence_retrieval")
-graph.add_edge("evidence_retrieval", "triage_agent")
-# graph.add_edge("triage_agent", "guardrail")
-graph.add_edge("triage_agent", END)
-graph = graph.compile()
+
+def build_clinical_graph():
+    graph = StateGraph(ClinicalGraphState)
+
+    graph.add_node("ssa", ssa_node)#FIXME: labs reference_range contains some worng values correct them by male,female/children
+    graph.add_node("evidence", evidence_retrieval)
+    graph.add_node("reasoning", reasoning_agent)
+    graph.add_node("triage", triage_agent)
+
+    graph.add_edge(START, "ssa")
+    graph.add_edge("ssa", "evidence")
+    graph.add_edge("evidence", "reasoning")
+    graph.add_edge("reasoning", "triage")
+#   graph.add_edge("triage_agent", "guardrail")
+    
+    graph.add_edge("triage", END)
+
+    return graph.compile()
 
 
 '''

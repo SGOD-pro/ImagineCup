@@ -1,8 +1,8 @@
 from azure.storage.blob import generate_blob_sas, BlobSasPermissions
 from datetime import datetime, timedelta
 from azure.storage.blob import BlobServiceClient,ContentSettings
-from app.config.blob_service import ACCOUNT_KEY,ACCOUNT_NAME,container_client
-from app.config import settings
+from app.core.blob_service import ACCOUNT_KEY,ACCOUNT_NAME,container_client
+from app.core import settings
 from pydantic import BaseModel
 
 class Blob(BaseModel):

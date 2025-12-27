@@ -1,6 +1,6 @@
 from app.ai.state import ClinicalGraphState
 # from langchain_nvidia import ChatNVIDIA
-from app.ai.llm import NVDIALLM
+from app.ai.llm import NvidiaLLM
 import json
 '''Symptom Structuring Agent (SSA)'''
 
@@ -26,8 +26,8 @@ Rules:
 - Output JSON only, no extra text.
 """
 
-     llm = NVDIALLM(model_name="nvidia/nemotron-3-nano-30b-a3b", temp=0.2)
-     response = llm.invoke(prompt)
+     llm = NvidiaLLM(model_name="nvidia/nemotron-3-nano-30b-a3b", temp=0.2)
+     response = llm.model.invoke(prompt)
      try:
           structured = json.loads(str(response.content))
           required_keys = {"chief_complaints", "duration", "severity", "red_flags"}

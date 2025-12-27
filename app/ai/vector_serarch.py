@@ -1,4 +1,4 @@
-from app.config.embedings import client,embding_model
+from app.core.embedings import client,embding_model
 from langchain_qdrant import QdrantVectorStore
 
 async def similarity_search(query: str, limit: int = 10):

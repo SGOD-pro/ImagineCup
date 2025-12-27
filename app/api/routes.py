@@ -3,16 +3,15 @@ from app.azure.upload import upload_stream
 from app.azure.blob_client import generate_sas
 from app.azure.OCR import blob_image_result,blob_doc_result
 from pydantic import BaseModel
-from typing import List
-from app.helper.cleanup import normalize_labs
 from typing import Dict, Any, List
-from app.ai.promts import labs
+from app.helper.cleanup import normalize_labs
+from app.ai.promts import LAB_PROMPT
 from langchain.messages import HumanMessage
 import json
 from fastapi.concurrency import run_in_threadpool
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
-from app.config import settings
-from app.ai.graph import graph
+from app.core import settings
+from app.ai.graph import build_clinical_graph
 from app.ai.state import ClinicalGraphState
 
 router = APIRouter()
@@ -97,7 +96,7 @@ async def analyze(data: AnalysisRequest):
         api_key=settings.NIM_API,
         max_tokens=4096
     )
-    prompt = labs + merged_text
+    prompt = LAB_PROMPT + merged_text
     response = await run_in_threadpool(
         model.invoke,
         [HumanMessage(prompt)]
@@ -151,6 +150,7 @@ async def analyze_case(data:AnalysisCaseRequest):
     "triage_rationale": None
 }
 
+    graph = build_clinical_graph()
     result=graph.invoke(input=initial_state)
 
     return result

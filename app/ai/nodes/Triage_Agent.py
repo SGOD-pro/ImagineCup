@@ -1,5 +1,5 @@
 from app.ai.state import ClinicalGraphState
-from app.ai.llm import NVDIALLM
+from app.ai.llm import NvidiaLLM
 from app.helper.risk_rule_engine import determine_risk
 def triage_agent(state: ClinicalGraphState) -> ClinicalGraphState:
      structured = state.get("structured_symptoms")
@@ -16,7 +16,7 @@ def triage_agent(state: ClinicalGraphState) -> ClinicalGraphState:
      escalation = risk == "critical"
 
      # --- LLM explanation ONLY ---
-     llm = NVDIALLM(
+     llm = NvidiaLLM(
           model_name="nvidia/llama-3.3-nemotron-super-49b-v1.5",
           temp=0.3
      )
@@ -44,7 +44,7 @@ def triage_agent(state: ClinicalGraphState) -> ClinicalGraphState:
      - 2–4 sentences max
      """
 
-     explanation = llm.invoke(prompt).content
+     explanation = llm.model.invoke(prompt).content
 
      state["risk_level"] = risk
      state["triage_rationale"] = str(explanation)

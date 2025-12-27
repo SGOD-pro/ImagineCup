@@ -1,7 +1,7 @@
 from azure.storage.blob import BlobServiceClient,ContentSettings
 import uuid
 
-from app.config.blob_service import ACCOUNT_NAME,container_client
+from app.core.blob_service import ACCOUNT_NAME,container_client
 
 def upload_stream(file_stream, content_type: str) -> str:
      blob_name = f"{uuid.uuid4()}"

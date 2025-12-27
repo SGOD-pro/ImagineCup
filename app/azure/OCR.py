@@ -2,7 +2,7 @@
 from azure.ai.vision.imageanalysis import ImageAnalysisClient
 from azure.ai.vision.imageanalysis.models import VisualFeatures
 from azure.core.credentials import AzureKeyCredential
-from app.config import settings
+from app.core import settings
 from typing import Dict, Any
 
 # import dotenv

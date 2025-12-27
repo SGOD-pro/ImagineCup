@@ -1,5 +1,5 @@
 from app.ai.state import ClinicalGraphState
-from app.ai.llm import NVDIALLM
+from app.ai.llm import NvidiaLLM
 import json
 from app.ai.promts import REASONING_SYSTEM_PROMPT
 
@@ -40,12 +40,12 @@ Constraints:
 - If evidence is insufficient, return an empty list
 """
 
-    llm = NVDIALLM(
+    llm = NvidiaLLM(
         model_name="nvidia/llama-3.1-nemotron-ultra-253b-v1",
         temp=0.4
     )
 
-    response = llm.invoke(
+    response = llm.model.invoke(
         REASONING_SYSTEM_PROMPT + "\n" + prompt
     )
 
