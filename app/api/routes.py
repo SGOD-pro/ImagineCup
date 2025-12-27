@@ -12,6 +12,9 @@ import json
 from fastapi.concurrency import run_in_threadpool
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from app.config import settings
+from app.ai.graph import graph
+from app.ai.state import ClinicalGraphState
+
 router = APIRouter()
 
 
@@ -60,6 +63,7 @@ class AnalysisRequest(BaseModel):
     user_symptoms: str
     context: Dict[str, Any]
 
+
 @router.post("/analyze")
 async def analyze(data: AnalysisRequest):
     """
@@ -88,16 +92,16 @@ async def analyze(data: AnalysisRequest):
   
     # 2. Parse labs (rule → LLM fallback)
     model= ChatNVIDIA(
-        model_name="openai/gpt-oss-20b",
+        model_name="nvidia/nvidia-nemotron-nano-9b-v2",
         temp=.1,
         api_key=settings.NIM_API,
         max_tokens=4096
     )
     prompt = labs + merged_text
     response = await run_in_threadpool(
-    model.invoke,
-    [HumanMessage(prompt)]
-)
+        model.invoke,
+        [HumanMessage(prompt)]
+    )
     # response = model.invoke([HumanMessage("Hii januuu")])
     # print(response.content)
     raw_output = str(response.content)
@@ -120,4 +124,33 @@ async def analyze(data: AnalysisRequest):
 
     return medical_state
 
+class Context(BaseModel):
+    age: int
+    sex: str
 
+class AnalysisCaseRequest(BaseModel):
+    labs: List[Dict[str, Any]]
+    symptoms: str
+    context: Context
+
+
+@router.post("/analyze-csae")
+async def analyze_case(data:AnalysisCaseRequest):
+    initial_state: ClinicalGraphState = {
+    "raw_symptoms_text": data.symptoms,
+    "patient_age": data.context.age,
+    "patient_gender": data.context.sex,
+    "lab_results": data.labs,
+
+    # initialize graph-owned fields
+    "structured_symptoms": None,
+    "evidence": [],
+    "hypotheses": [],
+    "risk_level": None,
+    "escalation_required": False,
+    "triage_rationale": None
+}
+
+    result=graph.invoke(input=initial_state)
+
+    return result

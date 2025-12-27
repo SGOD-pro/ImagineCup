@@ -17,7 +17,7 @@ class NVDIALLM(ChatNVIDIA):
             top_p=1.0,
             stream=stream,
             max_tokens=4096,
-            
+            callback=callback,
             **kwargs,
             
         )
