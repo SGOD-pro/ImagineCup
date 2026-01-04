@@ -40,4 +40,4 @@ async def analyze_case(
     req: AnalysisCaseRequest,
     service: ClinicalService = Depends(get_clinical_service),
 ):
-    return service.analyze_case(req)
+    return await service.analyze_case(req)

@@ -4,7 +4,7 @@ from langchain_qdrant import QdrantVectorStore
 async def similarity_search(query: str, limit: int = 10):
     vector_store = QdrantVectorStore(
         client=client,
-        collection_name="products",
+        collection_name="test",
         embedding=embding_model,
     )
     # Over-fetch to compensate for duplicates

@@ -2,6 +2,8 @@ from app.ai.state import ClinicalGraphState
 # from langchain_nvidia import ChatNVIDIA
 from app.ai.llm import NvidiaLLM
 import json
+from fastapi.concurrency import run_in_threadpool
+
 '''Symptom Structuring Agent (SSA)'''
 
 async def ssa_node(state: ClinicalGraphState) -> ClinicalGraphState:
@@ -27,7 +29,11 @@ Rules:
 """
 
      llm = NvidiaLLM(model_name="nvidia/nemotron-3-nano-30b-a3b", temp=0.2)
-     response = llm.model.invoke(prompt)
+     response = await run_in_threadpool(
+            llm.model.invoke,
+            prompt,
+        )
+     # response = llm.model.invoke(prompt)
      try:
           structured = json.loads(str(response.content))
           required_keys = {"chief_complaints", "duration", "severity", "red_flags"}

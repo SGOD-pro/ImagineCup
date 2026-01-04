@@ -2,7 +2,7 @@ from app.ai.state import ClinicalGraphState
 from app.ai.llm import NvidiaLLM
 import json
 from app.ai.promts import REASONING_SYSTEM_PROMPT
-
+from toon import encode
 def reasoning_agent(state: ClinicalGraphState) -> ClinicalGraphState:
     structured = state.get("structured_symptoms")
     labs = state.get("lab_results", [])
@@ -14,13 +14,13 @@ def reasoning_agent(state: ClinicalGraphState) -> ClinicalGraphState:
 
     prompt = f"""
 Symptoms:
-{json.dumps(structured, indent=2)}
+{encode(json.dumps(structured, indent=2))}
 
 Lab Results:
-{json.dumps(labs, indent=2)}
+{encode(json.dumps(labs, indent=2))}
 
 Medical Evidence:
-{json.dumps(evidence, indent=2)}
+{encode(json.dumps(evidence, indent=2))}
 
 Task:
 Generate a list of possible conditions to consider.

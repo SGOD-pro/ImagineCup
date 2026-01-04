@@ -1,6 +1,6 @@
 from app.ai.state import ClinicalGraphState
 from app.ai.llm import NvidiaLLM
-from app.helper.risk_rule_engine import determine_risk
+from app.domain.lab.risk_engine import determine_risk
 def triage_agent(state: ClinicalGraphState) -> ClinicalGraphState:
      structured = state.get("structured_symptoms")
      labs = state.get("lab_results", [])

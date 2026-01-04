@@ -32,7 +32,7 @@ async def evidence_retrieval(state: ClinicalGraphState) -> ClinicalGraphState:
      docs = await similarity_search(query, limit=5)
 
      evidence = []
-     for doc, score in docs:
+     for doc, _ in docs:
           evidence.append({
                "source": doc.metadata.get("source", "unknown"),
                "title": doc.metadata.get("title", ""),

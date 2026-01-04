@@ -3,10 +3,13 @@ from typing import List
 
 from app.domain.lab.normalizer import normalize_labs
 from app.ai.state import ClinicalGraphState
-
+from app.infrastructure.azure.ocr_client import OCRClient
+from app.infrastructure.azure.blob_storage import BlobStorage
+from app.ai.llm import NvidiaLLM
+# from app.ai.graph import build_clinical_graph
 
 class ClinicalService:
-    def __init__(self, blob, ocr, llm, graph):
+    def __init__(self, blob: BlobStorage, ocr: OCRClient, llm: NvidiaLLM, graph):
         self.blob = blob
         self.ocr = ocr
         self.llm = llm
@@ -50,7 +53,8 @@ class ClinicalService:
         merged_text = "\n".join(d["full_text"] for d in req.ocr_texts)
 
         raw = await self.llm.parse_labs(merged_text)
-        parsed = raw if isinstance(raw, dict) else __import__("json").loads(raw)
+        # parsed = raw if isinstance(raw, str) else __import__("json").loads(raw)
+        parsed = __import__("json").loads(raw)
 
         normalized = normalize_labs(parsed["tests"])
 
@@ -60,7 +64,7 @@ class ClinicalService:
             "context": req.context,
         }
 
-    def analyze_case(self, req):
+    async def analyze_case(self, req):
         state: ClinicalGraphState = {
             "raw_symptoms_text": req.symptoms,
             "patient_age": req.context.age,
@@ -73,5 +77,5 @@ class ClinicalService:
             "triage_rationale": None,
             "escalation_required": False,
         }
-
-        return self.graph.invoke(state)
+        result=await self.graph.ainvoke(state)
+        return result
