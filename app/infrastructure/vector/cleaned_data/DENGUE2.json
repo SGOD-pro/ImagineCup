@@ -1,0 +1,394 @@
+[
+  {
+    "id": "d42d551e-eaa8-4fa3-953b-d539870efac3",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Criteria for diagnosing dengue (with or without warning signs) and severe dengue are presented in Figure 1.4. It must be kept in mind that even dengue patients without warning signs may develop severe dengue. Criteria for diagnosing dengue (with or without warning signs) and severe dengue are: DENGUE ± WARNING SIGNS SEVERE DENGUE 1. Severe plasma leakage 2. Severe haemorrhage 3. Severe organ impairment",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 22
+    }
+  },
+  {
+    "id": "d8515f99-2508-46ba-84ac-71b6cb0a475d",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For a disease that is complex in its manifestations, management is relatively simple, inexpensive and very effective in saving lives so long as correct and timely interventions are instituted. The key is early recognition and understanding of the clinical problems during the different phases of the disease, leading to a rational approach to case management and a good clinical outcome.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 36
+    }
+  },
+  {
+    "id": "d0a23002-3b30-4c8e-a6fa-6fb010aaa726",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: A positive tourniquet test in the febrile phase increases the probability of dengue. Monitoring for warning signs and other clinical parameters is crucial to recognizing progression to the critical phase. The earliest abnormality in the full blood count is a progressive decrease in total white cell count, which should alert the physician to a high probability of dengue. Shock occurs when a critical volume of plasma is lost through leakage. It is often preceded by warning signs.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 37
+    }
+  },
+  {
+    "id": "5451c86c-5776-4f62-b848-0d86e22dacef",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Those who deteriorate will manifest with warning signs. This is called dengue with warning signs (Textbox C). Cases of dengue with warning signs will probably recover with early intravenous rehydration. Some cases will deteriorate to severe dengue (see below). Severe dengue is defined by one or more of the following: (i) plasma leakage that may lead to shock (dengue shock) and/or fluid accumulation, with or without respiratory distress, and/or (ii) severe bleeding, and/or (iii) severe organ impairment.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 38
+    }
+  },
+  {
+    "id": "dad2065b-80f2-4015-b668-f09ca032b10e",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: The patient is considered to have shock if the pulse pressure (i.e. the difference between the systolic and diastolic pressures) is ≤ 20 mm Hg in children or he/she has signs of poor capillary perfusion (cold extremities, delayed capillary refill, or rapid pulse rate).",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 39
+    }
+  },
+  {
+    "id": "673c3ff1-4432-47cd-a985-b1b649c4f187",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Recognizing the early stage of plasma leakage or critical phase and initiating fluid therapy; recognizing patients with warning signs who need to be referred for admission and/or intravenous fluid therapy to a secondary health care facility; recognizing and managing severe plasma leakage and shock, severe bleeding and severe organ impairment promptly and adequately.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 40
+    }
+  },
+  {
+    "id": "fe6cda8d-3d22-4a42-8920-50ae3dcc39b1",
+    "embedding_text": "Disease: dengue\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Depending on the clinical manifestations and other circumstances, patients may: – be sent home (Group A); – be referred for in-hospital management (Group B); – require emergency treatment and urgent referral (Group C). A number of criteria may be used to decide when to transfer a patient to a high-dependency unit. These include: – early presentation with shock (on days 2 or 3 of illness); – severe plasma leakage and/or shock; – undetectable pulse and blood pressure; – severe bleeding; – fluid overload; – organ impairment (such as hepatic damage, cardiomyopathy, encephalopathy, encephalitis and other unusual complications).",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 41
+    }
+  },
+  {
+    "id": "68fe69ec-fbc2-4dea-bf1d-a405a2191357",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: diarrhoea\nDuration: None\nAction: None\nGuideline statement: The history should include: – assessment for warning signs (Textbox C); – diarrhoea; – change in mental state/seizure/dizziness; – urine output (frequency, volume and time of last voiding); – other important relevant histories, such as family or neighbourhood dengue, travel to dengue endemic areas, co-existing conditions (e.g. infancy, pregnancy, obesity, diabetes mellitus, hypertension), jungle trekking and swimming in waterfall (consider leptospirosis, typhus, malaria), recent unprotected sex or drug abuse (consider acute HIV seroconversion illness).",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [
+        "diarrhoea"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 43
+    }
+  },
+  {
+    "id": "599f7eac-9d38-4908-b518-3693dde8f2dd",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: On the basis of evaluations of the history, physical examination and/or full blood count and haematocrit, clinicians should be able to determine whether the disease is dengue, which phase it is in (febrile, critical or recovery), whether there are warning signs, the hydration and haemodynamic status of the patient, and whether the patient requires admission.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 44
+    }
+  },
+  {
+    "id": "3dfc92fb-5453-4b29-afcb-7257b53e2590",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Ambulatory patients should be reviewed daily for disease progression (decreasing white blood cell count, defervescence and warning signs) until they are out of the critical period. Those with stable haematocrit can be sent home after being advised to return to the hospital immediately if they develop any of the warning signs and to adhere to the following action plan: ... Patients who are sent home should be monitored daily by health care providers for temperature pattern, volume of fluid intake and losses, urine output (volume and frequency), warning signs, signs of plasma leakage and bleeding, haematocrit, and white blood cell and platelet counts (see group B).",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 45
+    }
+  },
+  {
+    "id": "e6fdc56c-cc22-42b0-a5de-d925b9540869",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Give the minimum intravenous fluid volume required to maintain good perfusion and urine output of about 0.5 ml/kg/hr. Patients with warning signs should be monitored by health care providers until the period of risk is over. A detailed fluid balance should be maintained. Parameters that should be monitored include vital signs and peripheral perfusion (1–4 hourly until the patient is out of the critical phase), urine output (4–6 hourly), haematocrit (before and after fluid replacement, then 6–12 hourly), blood glucose, and other organ functions (such as renal profile, liver profile, coagulation profile, as indicated). Patients require emergency treatment and urgent referral when they are in the critical phase of disease, i.e. when they have: – severe plasma leakage leading to dengue shock and/or fluid accumulation with respiratory distress; – severe haemorrhages; – severe organ impairment (hepatic damage, renal impairment, cardiomyopathy, encephalopathy or encephalitis).",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 46
+    }
+  },
+  {
+    "id": "69993488-33f0-41f5-829a-05091776579b",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If the patient is not stable, act according to HCT levels: if HCT increases, consider bolus fluid administration or increase fluid administration; if HCT decreases, consider transfusion with fresh whole transfusion.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 47
+    }
+  },
+  {
+    "id": "35e494bf-1dc8-453e-8211-4c5396925b0b",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Fluid resuscitation with isotonic crystalloid 5–10 ml/kg/hr over 1 hour. If patient continues to improve, fluid can be further reduced. Monitor HCT 6–8 hourly. If the patient is not stable, act according to HCT levels: if HCT increases, consider bolus fluid administration or increase fluid administration; if HCT decreases, consider transfusion with fresh whole transfusion. Stop at 48 hours. Patients with hypotensive shock should be managed more vigorously. Initiate intravenous fluid resuscitation with crystalloid or colloid solution (if available) at 20 ml/kg as a bolus given over 15 minutes to bring the patient out of shock as quickly as possible.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 48
+    }
+  },
+  {
+    "id": "b8f41a26-16c2-488c-80da-d595c89b827d",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Patients with severe dengue should be admitted to the high-dependency or intensive care area. Patients with dengue shock should be frequently monitored until the danger period is over. If the haematocrit was low (<40% in children and adult females, <45% in adult males), this indicates bleeding and the need to cross-match and transfuse blood as soon as possible. If the haematocrit decreases compared to the previous value (<40% in children and adult females, <45% in adult males), this indicates bleeding and the need to cross-match and transfuse blood as soon as possible. If resources are available, a patient with severe dengue should have an arterial line placed as soon as practical.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 49
+    }
+  },
+  {
+    "id": "6cf2ae19-7712-41f0-9974-06b78f1eedd9",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Fluid resuscitation with 20 ml/kg isotonic crystalloid or colloid over 15 minutes. If patient continues to improve, fluid can be further reduced. If the patient is not stable, act according to HCT levels: if HCT increases, consider bolus fluid administration or increase fluid administration; if HCT decreases, consider transfusion with fresh whole transfusion. Administer 2nd bolus fluid (colloid) 10–20 ml/kg over ½ to 1 hour. Initiate transfusion with fresh whole blood. Repeat 3rd HCT",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 50
+    }
+  },
+  {
+    "id": "0266a658-5305-4073-a12e-9a1786fbaa6c",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: tachycardia\nDuration: None\nAction: None\nGuideline statement: A decrease in haematocrit together with unstable vital signs (particularly narrowing of the pulse pressure, tachycardia, metabolic acidosis, poor urine output) indicates major haemorrhage and the need for urgent blood transfusion. Yet a decrease in haematocrit together with stable haemodynamic status and adequate urine output indicates haemodilution and/or reabsorption of extravasated fluids, so in this case intravenous fluids must be discontinued immediately to avoid pulmonary oedema.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [
+        "tachycardia"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 51
+    }
+  },
+  {
+    "id": "d56ebb49-5b8f-4f0d-945c-8c529af670fc",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Severe bleeding can be recognized by: persistent and/or severe overt bleeding in the presence of unstable haemodynamic status, regardless of the haematocrit level; a decrease in haematocrit after fluid resuscitation together with unstable haemodynamic status; refractory shock that fails to respond to consecutive fluid resuscitation of 40-60 ml/kg; hypotensive shock with low/normal haematocrit before fluid resuscitation; persistent or worsening metabolic acidosis ± a well-maintained systolic blood pressure, especially in those with severe abdominal tenderness and distension. Blood transfusion is life-saving and should be given as soon as severe bleeding is suspected or recognized. Give 5–10ml/kg of fresh-packed red cells or 10–20 ml/kg of fresh whole blood at an appropriate rate and observe the clinical response.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 52
+    }
+  },
+  {
+    "id": "3386dab8-8a36-4e8f-a270-094ed8d45c28",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Early clinical features of fluid overload are: respiratory distress, difficulty in breathing; rapid breathing; chest wall in-drawing; wheezing (rather than crepitations); large pleural effusions; tense ascites; increased jugular venous pressure (JVP).",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 53
+    }
+  },
+  {
+    "id": "5d649105-cd4e-4f76-b1b1-0d35904e78e0",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: When the following signs are present, intravenous fluids should be discontinued or reduced to the minimum rate necessary to maintain euglycaemia:\n– signs of cessation of plasma leakage;\n– stable blood pressure, pulse and peripheral perfusion;\n– haematocrit decreases in the presence of a good pulse volume;\n– afebrile for more than 24–48 days (without the use of antipyretics);\n– resolving bowel/abdominal symptoms;\n– improving urine output.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 54
+    }
+  },
+  {
+    "id": "98593284-488c-4f9e-9237-e076c4f0d9fe",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: hypotension\nDuration: None\nAction: None\nGuideline statement: Supportive care and adjuvant therapy may be necessary in severe dengue. This may include: renal replacement therapy, with a preference to continuous veno-venous haemodialysis (CVVH), since peritoneal dialysis has a risk of bleeding; vasopressor and inotropic therapies as temporary measures to prevent life-threatening hypotension in dengue shock and during induction for intubation, while correction of intravascular volume is being vigorously carried out; further treatment of organ impairment, such as severe hepatic involvement or encephalopathy or encephalitis; further treatment of cardiac abnormalities, such as conduction abnormalities, may occur (the latter usually not requiring interventions).",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [
+        "hypotension"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 55
+    }
+  },
+  {
+    "id": "947ea5cb-ea11-48d2-9f29-947c762e7ed5",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Warning signs to watch out for in non-severe dengue include …",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 56
+    }
+  },
+  {
+    "id": "9f47fbc8-f06f-49bd-a5c2-bfdb865833d4",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Clinical fluid accumulation, Mucosal bleed, Lethargy, restlessness, Liver enlargement >2 cm, Increase in HCT concurrent with rapid decrease in platelet count",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 57
+    }
+  },
+  {
+    "id": "4cd08b1a-5796-435f-99be-a609af723091",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: chest pain, hypotension\nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Warning signs Any of the warning signs (Textbox C) Signs and symptoms related to hypotension Dehydrated patient, unable to tolerate oral fluids (possible plasma leakage) Giddiness or postural hypotension Profuse perspiration, fainting, prostration during defervescence Hypotension or cold extremities Bleeding Spontaneous bleeding, independent of the platelet count Organ impairment Renal, hepatic, neurological or cardiac – enlarged, tender liver, although not yet in shock – chest pain or respiratory distress, cyanosis Findings through further investigations Rising haematocrit Pleural effusion, ascites or asymptomatic gall-bladder thickening Co-existing conditions Pregnancy Co-morbid conditions, such as diabetes mellitus, hypertension, peptic ulcer, haemolitic anemias and others Overweight or obese (rapid venous access difficult in emergency) Infancy or old age Social circumstances Living alone Living far from health facility Without reliable means of transport",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [
+        "chest pain",
+        "hypotension"
+      ],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 58
+    }
+  },
+  {
+    "id": "3a7009ea-a4c3-4a33-97b1-70df879f2769",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: vomiting, abdominal pain\nDuration: None\nAction: Further evaluation recommended\nGuideline statement: If any of following is observed, take the patient immediately to the nearest hospital. These are warning signs for danger: • Bleeding: - red spots or patches on the skin - bleeding from nose or gums - vomiting blood - black-coloured stools - heavy menstruation/vaginal bleeding • Frequent vomiting • Severe abdominal pain • Drowsiness, mental confusion or seizures • Pale, cold or clammy hands and feet • Difficulty in breathing",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [
+        "vomiting",
+        "abdominal pain"
+      ],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 59
+    }
+  },
+  {
+    "id": "dfc354b3-573a-45ce-a82b-24a797319065",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Monitoring the chloride and lactate levels will help to identify hyperchloraemic acidosis. When serum chloride level exceeds the normal range, it is advisable to change to other alternatives such as Ringer’s Lactate. Colloids may be the preferred choice if the blood pressure has to be restored urgently, i.e. in those with pulse pressure less than 10 mm Hg.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 61
+    }
+  },
+  {
+    "id": "95f8b50c-0a11-46a4-a647-cdbcf9cbf062",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: vomiting, abdominal pain\nDuration: None\nAction: None\nGuideline statement: WARNING SIGNS* • Abdominal pain or tenderness • Persistent vomiting • Clinical fluid accumulation • Mucosal bleed • Lethargy, restlessness • Liver enlargement >2 cm • Laboratory: increase in HCT concurrent with rapid decrease in platelet count *(requiring strict observation and medical intervention) Patients with any of the following features: • co-existing conditions such as pregnancy, infancy, old age, diabetes mellitus, renal failure • social circumstances such as living alone, living far from hospital Group C (Require emergency treatment) Patients with any of the following features: • severe plasma leakage with shock and/or fluid accumulation with respiratory distress • severe bleeding • severe organ impairment Start IV fluid resuscitation with isotonic crystalloid solutions at 5–10 ml/kg/hr over 1 hour. If patient improves: • IV fluids should be reduced gradually to 5–7 ml/kg/hr for 1–2 hours, then to 3–5 ml/kg/hr for 2–4 hours, then to 2-3 ml/kg/hr for 2–4 hours and then reduced further depending on haemodynamic status; • IV fluids can be maintained for up to 24–48 hours. If patient is still unstable: • check HCT after first bolus; • if HCT increases/still high (>50%), repeat a second bolus of crystalloid solution at 10–20 ml/kg/hr for 1 hour; • if there is improvement after second bolus, reduce rate to 7–10 ml/kg/hr for 1–2 hours and continue to reduce as above; • if HCT decreases, this indicates bleeding and need to cross-match and transfuse blood as soon as possible. Initiate IV fluid resuscitation with crystalloid or colloid solution at 20 ml/kg as a bolus for 15 minutes. If patient improves: • give a crystalloid/colloid solution of 10 ml/kg/hr for 1 hour, then reduce gradually as above. If patient is still unstable: • review the HCT taken before the first bolus; • if HCT was low (<40% in children and adult females, <45% in adult males) this indicates bleeding, the need to cross-match and transfuse (see above); • if HCT was high compared to baseline value, change to IV colloids at 10–20 ml/kg as a second bolus over 30 minutes to 1 hour; reassess after second bolus. • If patient is improving reduce the rate to 7–10ml/kg/hr for 1–2 hours, then back to IV cystalloids and reduce rates as above; • if patient’s condition is still unstable, repeat HCT after second bolus. • If HCT decreases, this indicates bleeding (see above); • if HCT increases/remains high (>50%), continue colloid infusion at 10–20 ml/kg as a third bolus over 1 hour, then reduce to 7–10 ml/kg/h 1–2 hours, then change back to crystalloid solution and reduce rate as above. Give 5–10 ml/kg of fresh packed red cells or 10–20 ml/kg of fresh whole blood.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [
+        "vomiting",
+        "abdominal pain"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 63
+    }
+  },
+  {
+    "id": "0519d6a7-5e0a-4a62-85d9-448fc2bb7133",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Patients with any of the following features: • severe plasma leakage with shock and/or fluid accumulation with respiratory distress • severe bleeding • severe organ impairment Laboratory tests • full blood count (FBC) • haematocrit (HCT) • other organ function tests as indicated Treatment of compensated shock Start IV fluid resuscitation with isotonic crystalloid solutions at 5–10 ml/kg/hr over 1 hour. If patient improves: • IV fluids should be reduced gradually to 5–7 ml/kg/hr for 1–2 hours, then to 3–5 ml/kg/hr for 2–4 hours, then to 2-3 ml/kg/hr for 2–4 hours and then reduced further depending on haemodynamic status; • IV fluids can be maintained for up to 24–48 hours. If patient is still unstable: • check HCT after first bolus; • if HCT increases/still high (>50%), repeat a second bolus of crystalloid solution at 10–20 ml/kg/hr for 1 hour; • if there is improvement after second bolus, reduce rate to 7–10 ml/kg/hr for 1–2 hours and continue to reduce as above; • if HCT decreases, this indicates bleeding and need to cross-match and transfuse blood as soon as possible. Treatment of hypotensive shock Initiate IV fluid resuscitation with crystalloid or colloid solution at 20 ml/kg as a bolus for 15 minutes. If patient improves: • give a crystalloid/colloid solution of 10 ml/kg/hr for 1 hour, then reduce gradually as above. If patient is still unstable: • review the HCT taken before the first bolus; • if HCT was low (<40% in children and adult females, <45% in adult males) this indicates bleeding, the need to cross-match and transfuse (see above); • if HCT was high compared to baseline value, change to IV colloids at 10–20 ml/kg as a second bolus over 30 minutes to 1 hour; reassess after second bolus. • If patient is improving reduce the rate to 7–10ml/kg/hr for 1–2 hours, then back to IV cystalloids and reduce rates as above; • if patient’s condition is still unstable, repeat HCT after second bolus. • If HCT decreases, this indicates bleeding (see above); • if HCT increases/remains high (>50%), continue colloid infusion at 10–20 ml/kg as a third bolus over 1 hour, then reduce to 7–10 ml/kg/h 1–2 hours, then change back to crystalloid solution and reduce rate as above. Treatment of haemorrhagic complications Give 5–10 ml/kg of fresh packed red cells or 10–20 ml/kg of fresh whole blood.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 64
+    }
+  },
+  {
+    "id": "74ca1def-3735-4fae-a9da-fb593e38c2cb",
+    "embedding_text": "Disease: dengue\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Early intervention may be life-saving. Some patients progress over a short period from mild to severe disease and sometimes to death.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 104
+    }
+  },
+  {
+    "id": "4dabe549-e181-4575-a58f-7d449e437f8e",
+    "embedding_text": "Disease: dengue\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: There is theoretically a danger that a dengue vaccine could potentially cause severe disease (including DHF or DSS) in vaccine recipients if solid immunity was not established against all four serotypes.",
+    "metadata": {
+      "disease": "dengue",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_DENGUE_GUIDELINES",
+      "page": 151
+    }
+  }
+]

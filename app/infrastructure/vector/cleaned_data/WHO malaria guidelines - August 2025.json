@@ -1,0 +1,318 @@
+[
+  {
+    "id": "ba655f76-01d0-499f-858a-360d0e3051f5",
+    "embedding_text": "Disease: malaria\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Pregnant women with uncomplicated P. falciparum malaria should be treated with artemether-lumefantrine during the first trimester.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_MALARIA_2025",
+      "page": 17
+    }
+  },
+  {
+    "id": "a9866373-209d-414f-a11b-7f3e50c11fbe",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Adults and children with severe malaria (including infants, pregnant women in all trimesters and lactating women) should be treated with intravenous or intramuscular artesunate for at least 24 h and until they can tolerate oral medication. Once a patient has received at least 24 h of parenteral therapy and can tolerate oral therapy, treatment should be completed with 3 days of an ACT.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 20
+    }
+  },
+  {
+    "id": "cb2e4782-d232-4748-8fb0-e217b9b43c09",
+    "embedding_text": "Disease: malaria\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Where complete treatment of severe malaria is not possible, but injections are available, adults and children should be given a single intramuscular dose of artesunate, and referred to an appropriate facility for further care.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_MALARIA_2025",
+      "page": 21
+    }
+  },
+  {
+    "id": "35658e7e-4ff2-496b-9fd4-b63140c9304f",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: anaemia\nDuration: None\nAction: None\nGuideline statement: Children admitted to hospital with severe anaemia living in settings with moderate to high malaria transmission can be given a full therapeutic course of an antimalarial medicine at predetermined times following discharge from hospital to reduce re-admission and death.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [
+        "anaemia"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 123
+    }
+  },
+  {
+    "id": "41e481e3-0d94-4cce-9768-9cb872a30d60",
+    "embedding_text": "Disease: malaria\nSignal type: early_warning\nSymptoms: fever\nDuration: None\nAction: Further evaluation recommended\nGuideline statement: In malaria-endemic areas, malaria should be suspected in any patient presenting with a history of fever or temperature ≥ 37.5 °C and no other obvious cause. In areas in which malaria transmission is stable (or during the high-transmission period of seasonal malaria), malaria should also be suspected in children with palmar pallor or a haemoglobin concentration of < 8 g/dL.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "early_warning",
+      "symptoms": [
+        "fever"
+      ],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_MALARIA_2025",
+      "page": 163
+    }
+  },
+  {
+    "id": "7fe3ce93-2b34-48f0-b7fe-e9b1fb72577e",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: All patients with suspected malaria should be treated on the basis of a confirmed diagnosis by microscopy examination or RDT testing of a blood sample. Correct diagnosis in malaria-endemic areas is particularly important for the most vulnerable population groups, such as young children and non-immune populations, in whom falciparum malaria can be rapidly fatal.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 165
+    }
+  },
+  {
+    "id": "dcdbbcc6-be37-49c8-bba5-addb2211e879",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Treatment failure after amodiaquine monotherapy was more frequent among children who were underweight for their age. Therefore, their response to artesunate + amodiaquine treatment should be closely monitored. Artesunate + amodiaquine is associated with severe neutropenia, particularly in patients co-infected with HIV and especially in those on zidovudine and/or cotrimoxazole. Concomitant use of efavirenz increases exposure to amodiaquine and hepatotoxicity. Thus, concomitant use of artesunate + amodiaquine by patients taking zidovudine, efavirenz and cotrimoxazole should be avoided, unless this is the only ACT promptly available.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 173
+    }
+  },
+  {
+    "id": "1f3a292a-38bd-4c57-9fea-54b0fa629737",
+    "embedding_text": "Disease: malaria\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: When possible, treatment failure must be confirmed parasitologically. This may require referring the patient to a facility with microscopy or LDH-based RDTs, as P. falciparum histidine-rich protein-2 (PfHRP2)-based tests may remain positive for weeks after the initial infection, even without recrudescence. Referral may be necessary anyway to obtain second-line treatment.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_MALARIA_2025",
+      "page": 176
+    }
+  },
+  {
+    "id": "f5223f87-20ec-4a8c-9fac-805eb7451316",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Large adults are at risk for under-dosing when they are dosed by age or in standard pre-packaged adult weight-based treatments. In principle, dosing of large adults should be based on achieving the target mg/kg bw dose for each antimalarial regimen.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 179
+    }
+  },
+  {
+    "id": "05a1754b-b4fa-4cd7-a51d-13277520b54f",
+    "embedding_text": "Disease: malaria\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: In community situations where parenteral treatment is needed but cannot be given, such as for infants and young children who vomit antimalarial drugs repeatedly or are too weak to swallow or are very ill, give rectal artesunate and transfer the patient to a facility in which parenteral treatment is possible. Rectal administration of a single dose of artesunate as pre-referral treatment reduces the risks for death and neurological disability, as long as this initial treatment is followed by appropriate parenteral antimalarial treatment in hospital.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_MALARIA_2025",
+      "page": 186
+    }
+  },
+  {
+    "id": "aa0e5a1e-6444-4c67-8a08-ec8ad1621434",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: People with P. falciparum hyperparasitaemia are at increased risk for treatment failure, severe malaria and death and should be closely monitored, in addition to receiving an ACT.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 189
+    }
+  },
+  {
+    "id": "255b3561-98a2-4062-b710-bdad8e7666e5",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If the malaria species is not known with certainty, adults and children should be treated as for uncomplicated P. falciparum malaria.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 191
+    }
+  },
+  {
+    "id": "c4b9b9c5-0485-429d-9587-80aa8823b616",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If G6PD status is unknown, or if G6PD activity ≤ 70%, tafenoquine can only be used when the result of a quantitative or a semi-quantitative test is available.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 194
+    }
+  },
+  {
+    "id": "fb45e63b-318d-4be9-bfb0-968ee52b53fe",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Primaquine is contraindicated in pregnancy and women breastfeeding infants aged < 1 month.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 208
+    }
+  },
+  {
+    "id": "adebad9f-e506-41d2-9f94-d024088ba930",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Any patient with malaria who is unable to take oral medications reliably, shows any evidence of vital organ dysfunction or has a high parasite count is at increased risk for dying. The attending clinician should not worry unduly about definitions: the severely ill patient requires immediate supportive care, and, if severe malaria is a possibility, parenteral antimalarial drug treatment should be started without delay.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 209
+    }
+  },
+  {
+    "id": "20714d40-bbe4-4445-b175-eefeccc8958c",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If facilities are available, arterial or capillary blood pH and gases should be measured in patients who are unconscious, hyperventilating or in shock. Blood should be taken for cross-matching, a full blood count, a platelet count, clotting studies, blood culture and full biochemistry (if possible). Careful attention should be paid to the patient’s fluid balance in severe malaria in order to avoid over- or under-hydration.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 210
+    }
+  },
+  {
+    "id": "47e871a8-fc53-4116-9bf4-46b3e4677e7a",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Patients with severe malaria require intensive nursing care, preferably in an intensive care unit where possible. Clinical observations should be made as frequently as possible and should include monitoring of vital signs, coma score and urine output. Blood glucose should be monitored every 4 h, if possible, particularly in unconscious patients. Severe malaria is associated with a variety of manifestations and complications, which must be recognized promptly and treated as shown below.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 211
+    }
+  },
+  {
+    "id": "a365ced1-4f27-4778-8b24-e387a04c716b",
+    "embedding_text": "Disease: malaria\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Shock Suspect septicaemia, take blood for cultures; give parenteral broad-spectrum antimicrobials, correct haemodynamic disturbances.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_MALARIA_2025",
+      "page": 212
+    }
+  },
+  {
+    "id": "e732573e-6bf3-48b8-968a-ea450dea3639",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Women in the second and third trimesters of pregnancy are more likely to have severe malaria than other adults, and, in low-transmission settings, this is often complicated by pulmonary oedema and hypoglycaemia. Maternal mortality is approximately 50%, which is higher than in non-pregnant adults. Fetal death and premature labour are common.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 213
+    }
+  },
+  {
+    "id": "3f85c77c-ac15-4c5d-b0f4-87b7338c7703",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children weighing < 20 kg should receive a higher dose of artesunate (3 mg/kg bw per dose) than larger children and adults (2.4 mg/kg bw per dose) to ensure equivalent exposure to the drug.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 215
+    }
+  },
+  {
+    "id": "97f53ab8-b5f4-4de5-b8b1-9d1d1e03c902",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Treat children and adults with severe malaria with parenteral artesunate for at least 24 h.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 218
+    }
+  },
+  {
+    "id": "f975fc39-e3b3-4271-90bb-c9f185fe7122",
+    "embedding_text": "Disease: malaria\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: If a patient with severe malaria has persisting acute kidney injury or there is no clinical improvement by 48 h, the dose of quinine should be reduced by one third, to 10 mg salt/kg bw every 12 h.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_MALARIA_2025",
+      "page": 219
+    }
+  },
+  {
+    "id": "32876003-4afa-47e0-9a6f-eeca8a28f702",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Severe malaria primary case definition: P. falciparum asexual parasitaemia at a density of > 5000 parasites per cubic millimetre with one or more markers of disease severity and without diagnosis of a coexisting illness. Markers of severe disease were prostration, respiratory distress, a Blantyre coma score 2 or lower (on a scale of 0 to 5, with higher scores indicating a higher level of consciousness), two or more observed or reported seizures, hypoglycaemia, acidosis, elevated lactate level, or haemoglobin level of < 5 g per decilitre.",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 403
+    }
+  },
+  {
+    "id": "994e77c4-1f6e-467a-bd4e-118ef4942e05",
+    "embedding_text": "Disease: malaria\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Severe malaria primary case definition: P. falciparum asexual parasitaemia at a density of > 5000 parasites per cubic millimetre with one or more markers of disease severity and without diagnosis of a coexisting illness. Markers of severe disease were prostration, respiratory distress, a Blantyre coma score 2 or lower (on a scale of 0 to 5, with higher scores indicating a higher level of consciousness), two or more observed or reported seizures, hypoglycaemia, acidosis, elevated lactate level, or haemoglobin level of < 5 g per decilitre. Co-existing illnesses were defined as radiographically proven pneumonia, meningitis established by analysis of cerebrospinal fluid, sepsis (with positive blood culture), or gastroenteritis with severe dehydration.)",
+    "metadata": {
+      "disease": "malaria",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_MALARIA_2025",
+      "page": 403
+    }
+  }
+]

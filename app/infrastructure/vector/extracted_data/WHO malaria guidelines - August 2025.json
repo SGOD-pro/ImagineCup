@@ -1,0 +1,513 @@
+[
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 17,
+      "page_label": "18"
+    },
+    "text": "Pregnant women with uncomplicated P. falciparum malaria should be treated with artemether-lumefantrine during the first trimester.",
+    "category": [
+      "escalation",
+      "severity"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 20,
+      "page_label": "21"
+    },
+    "text": "Adults and children with severe malaria (including infants, pregnant women in all trimesters and lactating women) should be treated with intravenous or intramuscular artesunate for at least 24 h and until they can tolerate oral medication. Once a patient has received at least 24 h of parenteral therapy and can tolerate oral therapy, treatment should be completed with 3 days of an ACT.",
+    "category": [
+      "severity",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 21,
+      "page_label": "22"
+    },
+    "text": "Where complete treatment of severe malaria is not possible, but injections are available, adults and children should be given a single intramuscular dose of artesunate, and referred to an appropriate facility for further care.",
+    "category": [
+      "escalation",
+      "severity"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 123,
+      "page_label": "124"
+    },
+    "text": "Children admitted to hospital with severe anaemia living in settings with moderate to high malaria transmission can be given a full therapeutic course of an antimalarial medicine at predetermined times following discharge from hospital to reduce re-admission and death.",
+    "category": [
+      "severity",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 163,
+      "page_label": "164"
+    },
+    "text": "In malaria-endemic areas, malaria should be suspected in any patient presenting with a history of fever or temperature ≥ 37.5 °C and no other obvious cause. In areas in which malaria transmission is stable (or during the high-transmission period of seasonal malaria), malaria should also be suspected in children with palmar pallor or a haemoglobin concentration of < 8 g/dL.",
+    "category": [
+      "early_warning",
+      "severity",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 165,
+      "page_label": "166"
+    },
+    "text": "All patients with suspected malaria should be treated on the basis of a confirmed diagnosis by microscopy examination or RDT testing of a blood sample. Correct diagnosis in malaria-endemic areas is particularly important for the most vulnerable population groups, such as young children and non-immune populations, in whom falciparum malaria can be rapidly fatal.",
+    "category": [
+      "severity",
+      "early_warning"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 173,
+      "page_label": "174"
+    },
+    "text": "Treatment failure after amodiaquine monotherapy was more frequent among children who were underweight for their age. Therefore, their response to artesunate + amodiaquine treatment should be closely monitored. Artesunate + amodiaquine is associated with severe neutropenia, particularly in patients co-infected with HIV and especially in those on zidovudine and/or cotrimoxazole. Concomitant use of efavirenz increases exposure to amodiaquine and hepatotoxicity. Thus, concomitant use of artesunate + amodiaquine by patients taking zidovudine, efavirenz and cotrimoxazole should be avoided, unless this is the only ACT promptly available.",
+    "category": [
+      "severity",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 176,
+      "page_label": "177"
+    },
+    "text": "When possible, treatment failure must be confirmed parasitologically. This may require referring the patient to a facility with microscopy or LDH-based RDTs, as P. falciparum histidine-rich protein-2 (PfHRP2)-based tests may remain positive for weeks after the initial infection, even without recrudescence. Referral may be necessary anyway to obtain second-line treatment.",
+    "category": [
+      "escalation",
+      "severity"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 179,
+      "page_label": "180"
+    },
+    "text": "Large adults are at risk for under-dosing when they are dosed by age or in standard pre-packaged adult weight-based treatments. In principle, dosing of large adults should be based on achieving the target mg/kg bw dose for each antimalarial regimen.",
+    "category": [
+      "severity",
+      "early_warning",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 186,
+      "page_label": "187"
+    },
+    "text": "In community situations where parenteral treatment is needed but cannot be given, such as for infants and young children who vomit antimalarial drugs repeatedly or are too weak to swallow or are very ill, give rectal artesunate and transfer the patient to a facility in which parenteral treatment is possible. Rectal administration of a single dose of artesunate as pre-referral treatment reduces the risks for death and neurological disability, as long as this initial treatment is followed by appropriate parenteral antimalarial treatment in hospital.",
+    "category": [
+      "early_warning",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 189,
+      "page_label": "190"
+    },
+    "text": "People with P. falciparum hyperparasitaemia are at increased risk for treatment failure, severe malaria and death and should be closely monitored, in addition to receiving an ACT.",
+    "category": [
+      "severity",
+      "early_warning",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 191,
+      "page_label": "192"
+    },
+    "text": "If the malaria species is not known with certainty, adults and children should be treated as for uncomplicated P. falciparum malaria.",
+    "category": [
+      "severity",
+      "early_warning",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 194,
+      "page_label": "195"
+    },
+    "text": "If G6PD status is unknown, or if G6PD activity ≤ 70%, tafenoquine can only be used when the result of a quantitative or a semi-quantitative test is available.",
+    "category": [
+      "severity"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 208,
+      "page_label": "209"
+    },
+    "text": "Primaquine is contraindicated in pregnancy and women breastfeeding infants aged < 1 month.",
+    "category": [
+      "severity",
+      "early_warning"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 209,
+      "page_label": "210"
+    },
+    "text": "Any patient with malaria who is unable to take oral medications reliably, shows any evidence of vital organ dysfunction or has a high parasite count is at increased risk for dying. The attending clinician should not worry unduly about definitions: the severely ill patient requires immediate supportive care, and, if severe malaria is a possibility, parenteral antimalarial drug treatment should be started without delay.",
+    "category": [
+      "severity",
+      "early_warning",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 210,
+      "page_label": "211"
+    },
+    "text": "If facilities are available, arterial or capillary blood pH and gases should be measured in patients who are unconscious, hyperventilating or in shock. Blood should be taken for cross-matching, a full blood count, a platelet count, clotting studies, blood culture and full biochemistry (if possible). Careful attention should be paid to the patient’s fluid balance in severe malaria in order to avoid over- or under-hydration.",
+    "category": [
+      "severity",
+      "early_warning",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 211,
+      "page_label": "212"
+    },
+    "text": "Patients with severe malaria require intensive nursing care, preferably in an intensive care unit where possible. Clinical observations should be made as frequently as possible and should include monitoring of vital signs, coma score and urine output. Blood glucose should be monitored every 4 h, if possible, particularly in unconscious patients. Severe malaria is associated with a variety of manifestations and complications, which must be recognized promptly and treated as shown below.",
+    "category": [
+      "severity",
+      "early_warning",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 212,
+      "page_label": "213"
+    },
+    "text": "Shock Suspect septicaemia, take blood for cultures; give parenteral broad-spectrum antimicrobials, correct haemodynamic disturbances.",
+    "category": [
+      "early_warning",
+      "severity",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 213,
+      "page_label": "214"
+    },
+    "text": "Women in the second and third trimesters of pregnancy are more likely to have severe malaria than other adults, and, in low-transmission settings, this is often complicated by pulmonary oedema and hypoglycaemia. Maternal mortality is approximately 50%, which is higher than in non-pregnant adults. Fetal death and premature labour are common.",
+    "category": [
+      "severity",
+      "early_warning",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 215,
+      "page_label": "216"
+    },
+    "text": "Children weighing < 20 kg should receive a higher dose of artesunate (3 mg/kg bw per dose) than larger children and adults (2.4 mg/kg bw per dose) to ensure equivalent exposure to the drug.",
+    "category": [
+      "severity",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 218,
+      "page_label": "219"
+    },
+    "text": "Treat children and adults with severe malaria with parenteral artesunate for at least 24 h.",
+    "category": [
+      "severity",
+      "early_warning",
+      "escalation"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 219,
+      "page_label": "220"
+    },
+    "text": "If a patient with severe malaria has persisting acute kidney injury or there is no clinical improvement by 48 h, the dose of quinine should be reduced by one third, to 10 mg salt/kg bw every 12 h.",
+    "category": [
+      "escalation",
+      "severity"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 403,
+      "page_label": "404"
+    },
+    "text": "Severe malaria primary case definition: P. falciparum asexual parasitaemia at a density of > 5000 parasites per cubic millimetre with one or more markers of disease severity and without diagnosis of a coexisting illness. Markers of severe disease were prostration, respiratory distress, a Blantyre coma score 2 or lower (on a scale of 0 to 5, with higher scores indicating a higher level of consciousness), two or more observed or reported seizures, hypoglycaemia, acidosis, elevated lactate level, or haemoglobin level of < 5 g per decilitre.",
+    "category": [
+      "severity"
+    ]
+  },
+  {
+    "metadata": {
+      "producer": "Prince 13.5 (www.princexml.com)",
+      "creator": "MAGICapp",
+      "creationdate": "2025-08-11T10:27:15+02:00",
+      "author": "World Health Organization",
+      "keywords": "WHO guidelines for malaria, 13 August 2025\r\n© World Health Organization 2025\r\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\r\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "moddate": "2025-08-11T10:27:15+02:00",
+      "subject": "Malaria",
+      "title": "WHO guidelines for malaria, 13 August 2025",
+      "source": "./Pdfs/WHO malaria guidelines - August 2025.pdf",
+      "total_pages": 478,
+      "page": 403,
+      "page_label": "404"
+    },
+    "text": "Severe malaria primary case definition: P. falciparum asexual parasitaemia at a density of > 5000 parasites per cubic millimetre with one or more markers of disease severity and without diagnosis of a coexisting illness. Markers of severe disease were prostration, respiratory distress, a Blantyre coma score 2 or lower (on a scale of 0 to 5, with higher scores indicating a higher level of consciousness), two or more observed or reported seizures, hypoglycaemia, acidosis, elevated lactate level, or haemoglobin level of < 5 g per decilitre. Co-existing illnesses were defined as radiographically proven pneumonia, meningitis established by analysis of cerebrospinal fluid, sepsis (with positive blood culture), or gastroenteritis with severe dehydration.)",
+    "category": [
+      "severity"
+    ]
+  }
+]

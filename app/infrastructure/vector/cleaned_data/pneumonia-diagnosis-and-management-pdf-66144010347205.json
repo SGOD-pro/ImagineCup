@@ -1,0 +1,337 @@
+[
+  {
+    "id": "cf1c7c50-dc68-42e1-af99-446dabf7c3f7",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Consider measuring a baseline C-reactive protein (CRP) in adults with community-acquired pneumonia on admission to hospital. Do not routinely offer microbiological tests to adults with low-severity community-acquired pneumonia or children with non-severe community-acquired pneumonia. For adults with moderate- or high-severity community-acquired pneumonia, consider blood cultures if there are additional clinical indications such as suspected sepsis.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 13
+    }
+  },
+  {
+    "id": "e014a63e-46a5-4258-a0e7-6a0c943e6cf3",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: 1.5.2 Start antibiotic treatment as soon as possible after establishing a diagnosis of hospital-acquired pneumonia, and within 4 hours of clinical suspicion if symptoms start in hospital or within 4 hours of presentation to hospital.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 15
+    }
+  },
+  {
+    "id": "bded38d2-2cb5-4438-b321-9120ce7b8417",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: fever\nDuration: None\nAction: None\nGuideline statement: For adults with community-acquired pneumonia, stop antibiotic treatment after 5 days unless: microbiological results suggest a longer course is needed or the person is not clinically stable, for example, if they have had a fever in the past 48 hours or have more than 1 of the following signs of clinical instability: systolic blood pressure less than 90 mmHg, heart rate more than 100 beats per minute, respiratory rate more than 24 breaths per minute, oxygen saturations of less than 90% on room air (or failure to meet long-term baseline oxygen requirements); note that oxygen saturation monitors may be inaccurate in people with pigmented skin.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [
+        "fever"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 16
+    }
+  },
+  {
+    "id": "968f7044-ef25-46fd-905d-3af85e1795fb",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Consider extending use of antibiotics beyond 3 days for babies and children aged 3 months (corrected gestational age) to 11 years if they are not clinically stable, for example, if they are in respiratory distress or their oxygen saturation levels have not improved as expected.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 17
+    }
+  },
+  {
+    "id": "3a264f2b-1593-4920-8546-994aa0d2c19f",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: High-severity disease: first-line antibiotics Co-amoxiclav: 500/125 mg three times a day orally or 1.2 g three times a day intravenously for 5 days With Clarithromycin: 500 mg twice a day orally or intravenously for 5 days Or Erythromycin (in pregnancy): 500 mg four times a day orally for 5 days",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 18
+    }
+  },
+  {
+    "id": "c652728d-2a47-4658-8385-a324531aad23",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: 1.7.3 Offer an antibiotic(s) for people with hospital-acquired pneumonia. When choosing an antibiotic(s), take account of: • disease severity (based on clinical judgement) • the number of days in hospital before onset of symptoms • the risk of developing complications, for example, if the person has a relevant comorbidity such as severe lung disease or immunosuppression • local hospital and ward-based antimicrobial resistance data • recent antibiotic use",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 24
+    }
+  },
+  {
+    "id": "6a94b977-618d-4f04-ade6-5dad196bf29b",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For hospital-acquired pneumonia, review treatment after a total of 5 days of antibiotics and consider stopping antibiotics if clinically stable.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 25
+    }
+  },
+  {
+    "id": "2534493d-c0fc-49f3-9725-cfa9d7189c80",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Treatment based on severity of symptoms or signs, risk of resistance and suitability",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 29
+    }
+  },
+  {
+    "id": "a8fdb015-c0bd-4e28-99c6-3fb85c94fb8e",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Treatment based on severity of symptoms or signs, risk of resistance and suitability Antibiotic, dosage and course length Severe symptoms or signs (for example, symptoms or signs of sepsis) or at higher risk of resistance: first-line intravenous antibiotics (antibiotic choice should be based on specialist microbiological advice and local resistance data)",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 30
+    }
+  },
+  {
+    "id": "c477f630-6486-4abf-8382-d12cf7689a71",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: cough, fever, chest pain, fatigue\nDuration: None\nAction: None\nGuideline statement: • 1 week: fever should have resolved • 4 weeks: chest pain and sputum production should have substantially reduced • 6 weeks: cough and breathlessness should have substantially reduced • 3 months: most symptoms should have resolved but fatigue may still be present • 6 months: they will feel back to normal.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [
+        "cough",
+        "fever",
+        "chest pain",
+        "fatigue"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 34
+    }
+  },
+  {
+    "id": "7e0e4815-6e41-40f4-a829-6e57ed3b4c86",
+    "embedding_text": "Disease: pneumonia\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: － symptoms worsen rapidly or significantly or － symptoms do not start to improve within 3 days or － the person becomes systemically unwell.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_PNEUMONIA",
+      "page": 35
+    }
+  },
+  {
+    "id": "f1a14bcf-6030-4673-9658-9a1b55e1c4e7",
+    "embedding_text": "Disease: pneumonia\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Refer people with community-acquired pneumonia to hospital if they have symptoms that are not improving as expected with antibiotics. [2019, amended 2025]",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_PNEUMONIA",
+      "page": 36
+    }
+  },
+  {
+    "id": "537d9c0a-d9a9-4fa6-b374-1ffb87de93ce",
+    "embedding_text": "Disease: pneumonia\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Be aware that high levels of CRP or PCT, or levels that do not significantly improve with treatment, are associated with treatment failure and the person may need senior clinical review.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_PNEUMONIA",
+      "page": 37
+    }
+  },
+  {
+    "id": "b1209e69-9577-467b-9eb6-4080bf3ca9c4",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: This guideline uses 3 categories of disease severity: low, moderate and high. Often, but not always, these will match the mortality risk score. Clinical judgement should always be used, as there may be situations when the mortality risk score does not align with the assessment of disease severity. For example, a person with a low mortality risk score who has an unusually low oxygen saturation level, pleural complications or multiple comorbidities may be assessed as having moderate- or high-severity disease.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 38
+    }
+  },
+  {
+    "id": "284c66a4-b835-4cf6-9cd6-15cc859d933a",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Severe community-acquired pneumonia in babies, children and young people is a diagnosis made by the treating physician. Features of this may include difficulty breathing, oxygen saturation less than 90% (percutaneous oxygen saturation monitors may be inaccurate in people with pigmented skin), raised heart rate, grunting, severe chest indrawing, inability to breastfeed or drink, lethargy and a reduced level of consciousness.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 40
+    }
+  },
+  {
+    "id": "09815532-06dc-44e0-873d-26bec978cd2c",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: The committee noted that CURB65 is a validated tool that can be used, alongside clinical judgement, to assess the severity of community-acquired pneumonia in hospital. Lung ultrasound is a good diagnostic tool for people with suspected community-acquired pneumonia, showing high accuracy for both ruling in and ruling out the diagnosis in symptomatic people.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 45
+    }
+  },
+  {
+    "id": "9114da37-d213-430e-9b5e-9f6d63cfcb85",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: with pneumonia who are not responding to treatment after 3 or 4 days, but this could help identify complications or allow clinicians to amend the treatment plan to be more effective. When to consider blood cultures for adults with moderate- and high-severity community-acquired pneumonia and children with severe community-acquired pneumonia if there are additional clinical indications such as suspected sepsis.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 48
+    }
+  },
+  {
+    "id": "562046d0-d37c-4822-88da-05203ac08646",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults assessed via clinical judgement and CURB65 score as having moderate- or high-severity community-acquired pneumonia, there was evidence to support the use of pneumococcal urinary antigen tests to aid decision making around the selection of the most appropriate antibiotic.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 49
+    }
+  },
+  {
+    "id": "fe51b2c5-ffb9-4966-8624-6c1bbfd718be",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: The committee agreed high-severity community-acquired pneumonia in hospital to mean a CURB65 score of 3 to 5 combined with clinician judgement of high disease severity, which may include physiological instability, shock, profound hypoxia, or need for mechanical ventilation.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 51
+    }
+  },
+  {
+    "id": "c7b3667e-93e9-44e6-aaf5-767fff2f9615",
+    "embedding_text": "Disease: pneumonia\nSignal type: early_warning\nSymptoms: fever, fatigue\nDuration: None\nAction: Further evaluation recommended\nGuideline statement: persistent fever, increased work of breathing, and reduced fluid intake or fatigue may indicate more serious illnesses or complications.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "early_warning",
+      "symptoms": [
+        "fever",
+        "fatigue"
+      ],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_PNEUMONIA",
+      "page": 54
+    }
+  },
+  {
+    "id": "42efb273-b9b1-4592-8f09-3e2349876b46",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If a clinical diagnosis of community-acquired pneumonia has been made, determine whether adults are at low, intermediate or high risk of death using the CRB65 scoring system.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 7
+    }
+  },
+  {
+    "id": "5f92a9c1-8061-4cf1-bfba-ff00f580de07",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Adults are stratified for risk of death (within 30 days) as follows: • 0: low risk (less than 1% mortality risk) • 1 or 2: intermediate risk (1% to 10% mortality risk) • 3 or 4: high risk (more than 10% mortality risk). Consider: • referral to hospital for adults with a CRB65 score of 2 or more • one of the following options for adults with a CRB65 score of 1: － primary care-led services with safety netting advice or referral to: ◇ a virtual ward or ◇ same-day emergency care (SDEC) unit or ◇ hospital at home service or ◇ hospital",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 8
+    }
+  },
+  {
+    "id": "ff7f0b80-4659-4405-94c9-82f04d4a7415",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Refer adults to hospital if they have any symptoms or signs suggesting a more serious illness or condition (for example, cardiorespiratory failure or sepsis). Consider referring adults with community-acquired pneumonia to hospital, or seek specialist advice, if they cannot take oral medicines (exploring locally available options for giving intravenous antibiotics at home or in the community, rather than in hospital, if this is appropriate).",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 9
+    }
+  },
+  {
+    "id": "21d57f6f-fb9e-43cf-ba40-6e03f1dbfa10",
+    "embedding_text": "Disease: pneumonia\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Adults are stratified for risk of death as follows: • 0 or 1: low risk (less than 3% mortality risk) • 2: intermediate risk (3% to 15% mortality risk) • 3 to 5: high risk (more than 15% mortality risk).",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PNEUMONIA",
+      "page": 10
+    }
+  },
+  {
+    "id": "0a574f42-4fd0-42e3-8519-e0787001e252",
+    "embedding_text": "Disease: pneumonia\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Consider early discharge to a virtual ward or hospital at home service for adults on an inpatient ward whose clinical condition is improving but requires ongoing monitoring or treatment.",
+    "metadata": {
+      "disease": "pneumonia",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_PNEUMONIA",
+      "page": 11
+    }
+  }
+]

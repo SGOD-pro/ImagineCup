@@ -1,45 +1,49 @@
 from app.ai.state import ClinicalGraphState
-from app.ai.llm import NvidiaLLM
-from app.ai.vector_serarch import similarity_search
-'''RAG Evidence Retrieval
+from app.ai.vector_search import similarity_search
 
-     Pulls from WHO / CDC vectors
-     Output = citations + snippets
-'''
+"""
+Evidence Retrieval Agent
 
-
-# def evidence_retrieval(state: ClinicalGraphState) -> ClinicalGraphState:
-#      # extract structure
-#      # llm = NVDIALLM(model_name="nvidia/nvidia-nemotron-nano-9b-v2", temp=0.25)
-#      # response = llm.invoke("")
-#      # state["structured_symptoms"] = {}
-#      # return state
+- NO reasoning
+- NO diagnosis
+- Retrieves typed, cited clinical signals
+"""
 
 async def evidence_retrieval(state: ClinicalGraphState) -> ClinicalGraphState:
-     structured = state.get("structured_symptoms")
+    structured = state.get("structured_symptoms")
 
-     if not structured:
-          state["evidence"] = []
-          return state
+    if not structured:
+        state["evidence"] = []
+        return state
 
-     query_parts = structured["chief_complaints"]
+    chief = structured.get("chief_complaints", [])
+    red_flags = structured.get("red_flags", [])
 
-     if structured.get("red_flags"):
-          query_parts += structured["red_flags"]
+    # build query
+    query_parts = chief + red_flags
+    query = " ".join(query_parts)
 
-     query = " ".join(query_parts)
+    # red flags bias escalation
+    signal_types = ["early_warning", "severity"]
+    if red_flags:
+        signal_types.append("escalation")
 
-     docs = await similarity_search(query, limit=5)
+    docs = await similarity_search(
+        query=query,
+        limit=5,
+        signal_types=signal_types,
+    )
 
-     evidence = []
-     for doc, _ in docs:
-          evidence.append({
-               "source": doc.metadata.get("source", "unknown"),
-               "title": doc.metadata.get("title", ""),
-               "excerpt": doc.page_content[:500],
-               "url": doc.metadata.get("url")
-          })
+    evidence = []
+    for doc, score in docs:
+        evidence.append({
+            "statement": doc.page_content,
+            "signal_type": doc.metadata.get("signal_type"),
+            "symptoms": doc.metadata.get("symptoms"),
+            "source": doc.metadata.get("source"),
+            "page": doc.metadata.get("page"),
+            "score": round(score, 3),
+        })
 
-     state["evidence"] = evidence
-     return state
-
+    state["evidence"] = evidence
+    return state

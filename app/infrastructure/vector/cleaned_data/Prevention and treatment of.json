@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c7ebafde-7b2a-4482-92dd-bbb6a30687f8",
+    "embedding_text": "Disease: general_emergency\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Induction of labour is recommended for women with severe pre-eclampsia at a gestational age when the fetus is not viable or unlikely to achieve viability within one or two weeks. In women with severe pre-eclampsia, a viable fetus, and before 34 weeks of gestation, a policy of expectant management is recommended, provided that uncontrolled maternal hypertension, increasing maternal organ dysfunction or fetal distress are absent and can be monitored. In women with severe pre-eclampsia, a viable fetus and between 34 and 36 (plus 6 days) weeks of gestation, a policy of expectant management may be recommended, provided that uncontrolled maternal hypertension, increasing maternal organ dysfunction or fetal distress are absent and can be monitored.",
+    "metadata": {
+      "disease": "general_emergency",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_EMERGENCY_CARE",
+      "page": 32
+    }
+  },
+  {
+    "id": "0668e40e-1084-42f5-8342-d46bd7043959",
+    "embedding_text": "Disease: general_emergency\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In women with severe pre-eclampsia at term, a policy of early delivery is recommended.",
+    "metadata": {
+      "disease": "general_emergency",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_EMERGENCY_CARE",
+      "page": 33
+    }
+  },
+  {
+    "id": "4da9c72f-a8ca-45a2-85b4-a86d53cd9883",
+    "embedding_text": "Disease: general_emergency\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In women treated with antihypertensive drugs antenatally, continued antihypertensive treatment postpartum is recommended. Treatment with antihypertensive drugs is recommended for severe postpartum hypertension.",
+    "metadata": {
+      "disease": "general_emergency",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_EMERGENCY_CARE",
+      "page": 34
+    }
+  },
+  {
+    "id": "7c2cf091-2584-4ca6-be69-3674244fa36c",
+    "embedding_text": "Disease: general_emergency\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In women diagnosed with mild pre-eclampsia antenatally, but not treated with antihypertensive drugs, the initiation of antihypertensive treatment postpartum should be considered for minimizing the risk of complications of severe high blood pressure.",
+    "metadata": {
+      "disease": "general_emergency",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_EMERGENCY_CARE",
+      "page": 35
+    }
+  }
+]

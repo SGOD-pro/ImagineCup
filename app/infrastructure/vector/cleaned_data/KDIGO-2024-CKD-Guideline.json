@@ -1,0 +1,684 @@
+[
+  {
+    "id": "c564dd89-55fd-4e5d-a2a3-6b32091b9601",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: GFR <60 ml/min per 1.73 m2 or ACR ≥30 mg/g [3 mg/mmol] and/or other markers of kidney damage present",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 23
+    }
+  },
+  {
+    "id": "472a05e2-4c02-4ee0-b1cf-04cb26efeb8c",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Proof of chronicity (duration of a minimum of 3 months) can be established by: (i) review of past measurements/estimations of GFR; (ii) review of past measurements of albuminuria or proteinuria and urine microscopic examinations; (iii) imaging findings such as reduced kidney size and reduction in cortical thickness; (iv) kidney pathological findings such as fibrosis and atrophy; (v) medical history, especially conditions known to cause or contribute to CKD; (vi) repeat measurements within and beyond the 3-month point.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 33
+    }
+  },
+  {
+    "id": "3bcf27c6-c0d8-4681-9a62-fcc4e1ed1cbd",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If eGFRcr is expected to be inaccurate, or if a more accurate assessment of GFR is needed for clinical decision-making, such as diagnosis or staging of chronic kidney disease or drug dosing, then, if available, cystatin C should be measured, and creatinine and cystatin C–based estimated GFR (eGFRcr-cys) should be estimated. If eGFRcr-cys is expected to be inaccurate, or if an even more accurate assessment of GFR is needed for clinical decision-making, then, if available, GFR should be measured using plasma or urinary clearance of exogenous filtration markers.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 35
+    }
+  },
+  {
+    "id": "986554c3-346f-4c9b-b13b-b7fa9870168b",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Practice Point 2.1.1: Assess albuminuria in adults, or albuminuria/proteinuria in children, and GFR at least annually in people with CKD. Practice Point 2.1.3: For people with CKD, a change in eGFR of>20% on a subsequent test exceeds the expected variability and warrants evaluation. Practice Point 2.1.4: Among people with CKD who initiate hemodynamically active therapies, GFR reductions of >30% on subsequent testing exceed the expected variability and warrant evaluation. Practice Point 2.1.5: For albuminuria monitoring of people with CKD, a doubling of the ACR on a subsequent test exceeds laboratory variability and warrants evaluation.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 39
+    }
+  },
+  {
+    "id": "34d23c46-5e5d-4bf9-9564-a5b193fca17a",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: A 5-year kidney failure risk of 3%–5% can be used to determine need for nephrology referral in addition to criteria based on eGFR or urine ACR, and other clinical considerations. A 2-year kidney failure risk of>10% can be used to determine the timing of multidisciplinary care in addition to eGFR-based criteria and other clinical considerations. A 2-year kidney failure risk threshold of>40% can be used to determine the modality education, timing of preparation for kidney replacement therapy (KRT) including vascular access planning or referral for transplantation, in addition to eGFR-based criteria and other clinical considerations.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 40
+    }
+  },
+  {
+    "id": "9cf89e1d-10b1-4814-9a96-b8da2ef8be37",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: We suggest that adults with high BP and CKD be treated with a target systolic blood pressure (SBP) of<120 mm Hg, when tolerated, using standardized office BP measurement(2B).",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 42
+    }
+  },
+  {
+    "id": "a3d4de3f-c939-4588-8652-ff3b49816944",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: K+ ≤4.8 mmol/l K+ 4.9–5.5 mmol/l K+ >5.5 mmol/l • Initiate finerenone  - 10 mg daily if eGFR 25–59 ml/min/1.73 m2  - 20 mg daily if eGFR ≥60 ml/min/1.73 m2 • Monitor K+ at 1 month after initiation and then every 4 months • Increase dose to 20 mg daily, if on 10 mg daily • Restart 10 mg daily if previously held for hyperkalemia and K+ now ≤5.0 mmol/l • Continue finerenone 10 mg or 20 mg • Monitor K+ every 4 months • Hold finerenone • Consider adjustments to diet or concomitant medications to mitigate hyperkalemia • Recheck K+ • Consider reinitiation if/when K+ ≤5.0 mmol/l",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 44
+    }
+  },
+  {
+    "id": "991ef1cf-df28-48db-9961-89620cdadad3",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In adults aged‡50 years with eGFR<60 ml/min per 1.73 m2 but not treated with chronic dialysis or kidney transplantation (GFR categories G3a–G5), we recommend treatment with a statin or statin/ezetimibe combination(1A).",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 46
+    }
+  },
+  {
+    "id": "b5b09859-591b-4de7-826f-69ab15a39f76",
+    "embedding_text": "Disease: ckd\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Consider planned discontinuation of medications (such as metformin, ACEi, ARBs, and SGLT2i) in the 48–72 hours prior to elective surgery or during the acute management of adverse effects as a precautionary measure to prevent complications.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "KDIGO_CKD_2024",
+      "page": 49
+    }
+  },
+  {
+    "id": "83eee86b-1507-4411-a074-db4b2f74f848",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Refer children and adolescents to specialist kidney care services in the following circumstances: /C15 an ACR of 30 mg/g (3 mg/mmol) or a PCR of 200 mg/g (20 mg/mmol) or more, confirmed on a repeat first morning void sample, when well and not during menstruation, /C15 persistent hematuria, /C15 any sustained decrease in eGFR, /C15 hypertension, /C15 kidney outflow obstruction or anomalies of the kidney and urinary tract, /C15 known or suspected CKD, or /C15 recurrent urinary tract infection.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 50
+    }
+  },
+  {
+    "id": "b375e6b3-a5f4-406c-bf56-91fa0c4e742f",
+    "embedding_text": "Disease: ckd\nSignal type: early_warning\nSymptoms: weight loss\nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Screen people with CKD G4– G5, aged >65, poor growth (pediatrics), or symptoms such as involuntary weight loss, frailty, or poor appetite twice annually for malnutrition using a validated assessment tool.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "early_warning",
+      "symptoms": [
+        "weight loss"
+      ],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "KDIGO_CKD_2024",
+      "page": 51
+    }
+  },
+  {
+    "id": "661bf484-a272-4b62-9ca0-6cdff460a88d",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Initiate dialysis if the presence of one or more of the following situations is evident (Table 41). This often but not invariably occurs in the GFR range between 5 and 10 ml/min per 1.73 m2. Consider planning for preemptive kidney transplantation and/or dialysis access in adults when the GFR is<15–20 ml/min per 1.73 m2 or risk of KRT is>40% over 2 years.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 52
+    }
+  },
+  {
+    "id": "f132f1fc-3338-47a4-b931-32c089316198",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Test people at risk for and with chronic kidney disease (CKD) using both urine albumin measurement and assessment of glomerular filtration rate (GFR).",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 53
+    }
+  },
+  {
+    "id": "d5929d11-5053-4498-bab9-d74cf1211fcb",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Persistent hematuria should prompt further investigation.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 55
+    }
+  },
+  {
+    "id": "7087b844-929d-4c26-8fe2-e5da5ef47d2b",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Practice Point 1.1.3.1: Proof of chronicity (duration of a minimum of 3 months) can be established by: (i) review of past measurements/estimations of GFR; (ii) review of past measurements of albuminuria or proteinuria and urine microscopic examinations; (iii) imaging findings such as reduced kidney size and reduction in cortical thickness; (iv) kidney pathological findings such as fibrosis and atrophy; (v) medical history, especially conditions known to cause or contribute to CKD; (vi) repeat measurements within and beyond the 3-month point.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 56
+    }
+  },
+  {
+    "id": "a8c123ba-5534-432a-bbba-433e4934d4c4",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Newborns who clearly have kidney disease (e.g., severe congenital malformations of the kidney and urinary tract) do not need to wait 3 months to confirm CKD.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 57
+    }
+  },
+  {
+    "id": "8e13a2e0-9fc5-4010-a320-89f317e84686",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If the level of accuracy that is needed for a clinical decision for the use of potentially toxic medications, a medication with a narrow therapeutic window, or for other therapies with potential for adverse events, may exceed the capability of any eGFR equation, and in such cases, mGFR should be performed.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 60
+    }
+  },
+  {
+    "id": "eab51283-ff6f-4211-918f-34b81c6a5f09",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If eGFRcr is expected to be inaccurate, or if a more accurate assessment of GFR is needed for clinical decision-making, such as diagnosis or staging of chronic kidney disease or drug dosing, then, if available, cystatin C should be measured, and creatinine and cystatin C–based estimated GFR (eGFRcr-cys) should be estimated.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 61
+    }
+  },
+  {
+    "id": "34724d6d-c145-4537-ba9c-0ad379be1dc1",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Non-GFR determinants of creatinine include generation by diet and muscle mass, tubular secretion, and extrarenal elimination. The non-GFR determinants of cystatin C are less well understood but thought to be higher adiposity, smoking, hypo- and hyperthyroidism, glucocorticoid excess, and chronic inflammation.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 65
+    }
+  },
+  {
+    "id": "c13b5d1c-5d1f-4474-8f87-11666281cda4",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: When there is discordance between eGFRcr and eGFRcys, it is reasonable to continue to measure cystatin C serially in addition to creatinine in those settings where GFR will affect clinical decisions. It is also reasonable to consider performing/mconducting mGFR when using medications with narrow therapeutic index or high toxicity or to inform critical treatment decisions.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 67
+    }
+  },
+  {
+    "id": "db385a31-7fce-4406-87ac-f990c70e7708",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If measuring urine protein, use the following measurements: (i) urine protein-to-creatinine ratio (PCR), (ii) reagent strip urinalysis for total protein with automated reading, or (iii) reagent strip urinalysis for total protein with manual reading.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 74
+    }
+  },
+  {
+    "id": "5c6b2748-0878-45ef-a6d9-6a2a5bea13a5",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Use more accurate methods when albuminuria is detected using less accurate methods. Confirm reagent strip positive albuminuria and/or proteinuria by quantitative laboratory measurement and express as a ratio to urine creatinine wherever possible (i.e., quantify the ACR or PCR if initial semiquantitative tests are positive). Confirm ACR ‡30 mg/g (‡3 mg/mmol) on a random untimed urine with a subsequent first morning void in the morning midstream urine sample.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 75
+    }
+  },
+  {
+    "id": "e000ca81-c88e-4c02-a962-5f35ee298888",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: A first morning void sample is preferred because it correlates well with 24-hour albumin and/or protein excretion, has relatively low intraindividual variability, and is required to exclude the diagnosis of orthostatic (postural) proteinuria. A random urine sample is acceptable if no first morning void sample is available.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 76
+    }
+  },
+  {
+    "id": "28c32c7e-4694-4cac-94ca-f5a1917ed9d2",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For people with CKD, a change in eGFR of >20% on a subsequent test exceeds the expected variability and warrants evaluation.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 80
+    }
+  },
+  {
+    "id": "7f4507f3-e8c4-44b9-83fb-bc833a516198",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: A significant drop in eGFR (>30%) while initiating anti-hypertensive agents, renin-angiotensin system inhibitors (RASi), mineralocorticoid receptor antagonists (MRA), or SGLT2i should prompt a review into other causes and warrants close monitoring.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 81
+    }
+  },
+  {
+    "id": "9c883a3e-2edd-4a19-8707-cdff788dc569",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For this reason, the Work Group has defined a doubling in albuminuria or more as exceeding the expected variability and warranting evaluation if replicated upon repeat testing. Conversely, reductions of the ACR by up to 50% are also consistent with random fluctuation.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 82
+    }
+  },
+  {
+    "id": "0dfc1b54-c764-44a1-bc26-ffb791f83c82",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: A 5-year kidney failure risk of 3%–5% can be used to determine need for nephrology referral in addition to criteria based on eGFR or urine ACR, and other clinical considerations. In most developing and developed countries, there are insufficient nephrology care resources to manage all people with CKD. Using an objective tool to appropriately triage those most likely to benefit from referral may help to manage those nephrology resources in an evidence-informed manner.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 85
+    }
+  },
+  {
+    "id": "9e6776c4-1052-47d0-acec-16128e56c1e5",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Given the potential utility of these new models to identify high-risk people for early intervention, they should be used to predict disease progression in people with CKD G1–G2 and may supplement established risk equations among people with CKD G3. People with CKD identified as intermediate risk (e.g., >1% per year) with these tools may benefit from the earlier initiation of therapy and closer follow-up, and those identified as high risk (e.g., >5% per year) may have the largest benefit from multidrug therapy to slow progression.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 87
+    }
+  },
+  {
+    "id": "3bf3c79b-97cb-4cab-bafb-71109c67cbf9",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: We recommend starting renin-angiotensin-system inhibitors (RASi) (angio-tensin-converting enzyme inhibitor [ACEi] or angiotensin II receptor blocker [ARB]) for people with CKD and severely increased albuminuria (G1–G4, A3) without diabetes(1B). We suggest starting RASi (ACEi or ARB) for people with CKD and moderately increased albuminuria (G1–G4, A2) without diabetes(2C).",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 97
+    }
+  },
+  {
+    "id": "8c159477-3077-4c73-bf95-27da94a084a2",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: eGFR <30 ml/min per 1.73 m2, compared with those who continue. In addition, a recent individual patient level data meta-analysis demonstrated a benefit in delaying KRT in patients with eGFR<30 ml/min per 1.73 m2. Initiate ACEi or ARB. Monitor serum creatinine and potassium (within 2–4 weeks after starting or changing dose) <30% decrease in eGFR Increase dose of ACEi or ARB or continue on maximally tolerated dose ≥30% decrease in eGFR Normokalemia Hyperkalemia • Review for causes of AKI • Correct volume depletion • Reassess concomitant medications (e.g., diuretics, NSAIDs) • Consider renal artery stenosis • Review concurrent drugs • Moderate dietary potassium intake • Consider: - diuretics - sodium bicarbonate - potassium binders Reduce dose or stop ACEi or ARB if mitigation strategies ineffective",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 98
+    }
+  },
+  {
+    "id": "643cb88e-5bc3-4ddd-97d0-add2f05b8b1c",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: We suggest treating adults with eGFR 20 to 45 ml/min per 1.73 m^2 with urine ACR <200 mg/g (<20 mg/mmol) with an SGLT2i (2B).",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 102
+    }
+  },
+  {
+    "id": "8d08c0ea-d103-4384-af25-9199f761438f",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: We suggest a nonsteroidal mineralocorticoid receptor antagonist with proven kidney or cardiovascular benefit for adults with T2D, an eGFR >25 ml/min per 1.73 m2, normal serum potassium concentration, and albuminuria (>30 mg/g[ >3 mg/mmol]) despite maximum tolerated dose of RAS inhibitor (RASi)(2A).",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 104
+    }
+  },
+  {
+    "id": "32865dc0-30e8-4e30-8173-82281310e466",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: A serum bicarbonate of <18 mmol/l in adults is desirable to avoid, but large RCTs are required to determine a precise threshold whereby the treatment of low serum bicarbonate levels leads to improvements in clinical outcome.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 107
+    }
+  },
+  {
+    "id": "a4f51b8a-8164-48cf-b717-c0cf8c35e468",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For people with CKD and severe recurrent hyperkalemia (potassium >6 mmol/l), the balance to be considered is between the additional cost of the number needed to treat with potassium exchange agents to prevent additional costs of hyperkalemia over and above CKD management costs.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 112
+    }
+  },
+  {
+    "id": "9aec1335-f68a-468c-8ea7-e064e0cf961e",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In children with CKD, discontinuation of RASi was associated with an acceleration of kidney function decline compared with a matched control cohort of children in whom RASi were continued.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 113
+    }
+  },
+  {
+    "id": "ff72dc49-837f-4822-966f-4b31ca1f539f",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In adults with CKD aged 18–49, a lower (i.e.,<10%) estimated 10-year incidence of coronary death or nonfatal myocardial infarction may also be appropriate thresholds for initiation of statin-based therapy.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 119
+    }
+  },
+  {
+    "id": "4c9589b1-2f66-48ed-b066-64edac8e3459",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In CKD, the antianginal beneﬁts of an initially invasive approach have not been demonstrated. Practice Point 3.15.3.1: Initial management with an invasive strategy may still be preferable for people with CKD with acute or unstable coronary disease, unacceptable levels of angina (e.g., patient dissatisfaction), left ventricular systolic dysfunction attributable to ischemia, or left main disease.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 123
+    }
+  },
+  {
+    "id": "4c421baa-c593-47dc-a95b-a182b9c0ca68",
+    "embedding_text": "Disease: ckd\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Our Work Group considered that oral anticoagulation for thromboprophylaxis should nearly always be considered for preventing stroke in people with decreased eGFR and atrial fibrillation.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "KDIGO_CKD_2024",
+      "page": 124
+    }
+  },
+  {
+    "id": "964e45c0-884f-45cc-8670-71afc8198b3c",
+    "embedding_text": "Disease: ckd\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Practice Point 3.16.2: NOAC dose adjustment for GFR is required, with caution needed at CKD G4–G5. Doses of NOACs may need to be modified in people with decreased GFR taking into consideration the age, weight, and GFR of a person with CKD (Figure 43 710). Consult the relevant summaries of product characteristics for the latest information on dosing (Chapter 4).",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "KDIGO_CKD_2024",
+      "page": 128
+    }
+  },
+  {
+    "id": "5260354e-be0f-42fc-8854-72e12aa71568",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: No official indication for use if CrCl <15 ml/min. Low risk is defined as a low frequency of bleeding and/or minor impact of a bleed. High risk is defined as a high frequency of bleeding and/or important clinical impact.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 129
+    }
+  },
+  {
+    "id": "ea8fa004-c808-47a5-ba63-8ef99fa89453",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Indiscriminate chronic OTC NSAID use has been associated with a higher risks of kidney failure compared with nonuse and should be discouraged.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 131
+    }
+  },
+  {
+    "id": "ceb544b6-50b5-4f6f-a767-f9f2463f6d23",
+    "embedding_text": "Disease: ckd\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: People with CKD are particularly susceptible to polypharmacy due to multiplicity of comorbidities and multiple physician or health system encounters related to those. Most people with CKD not treated with dialysis receive 6 –12 different medications per day.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "KDIGO_CKD_2024",
+      "page": 134
+    }
+  },
+  {
+    "id": "11f95aa8-a458-4a25-90d2-9a229a083adf",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: hypotension\nDuration: None\nAction: None\nGuideline statement: Many children with CKD with underlying tubular disorders have an obligate urine output irrespective of their hydration status and are at particularly high risk of hypotension and AKI during an acute dehydrating illness.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [
+        "hypotension"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 136
+    }
+  },
+  {
+    "id": "eb23a1c5-7177-4048-b862-26da4e9e24eb",
+    "embedding_text": "Disease: ckd\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Practice Point 4.4.1.1: Assess the risk for AKI in people with CKD receiving intra-arterial contrast for cardiac procedures using validated tools. The reported risk of CA-AKI is higher with procedures involving arterial administration compared with venous administration of contrast. Known risk factors for CA-AKI are advanced age, heart failure, the volume of contrast material, proteinuria, hyper-glycemia, and use of RASi.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "KDIGO_CKD_2024",
+      "page": 137
+    }
+  },
+  {
+    "id": "8f363328-0d1e-405b-9b81-15c8384aa0a3",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Refer adults with CKD to specialist kidney care services in the circumstances listed in Figure 48: • A >3%–5% 5-year risk of requiring KRT measured using a validated risk equation • eGFR <30 ml/min per 1.73 m2 • A sustained fall in GFR of >20% or >30% in those people initiating hemodynamically active therapies • Consistent finding of significant albuminuria (ACR ≥300 mg/g [≥30 mg/mmol] or AER ≥300 mg/24 hours, approximately equivalent to PCR ≥500 mg/g [≥50 mg/mmol] or PER ≥500 mg/24 h) in combination with hematuria • ≥2-fold increase in albuminuria in people with significant albuminuria undergoing monitoring • A consistent finding of ACR >700 mg/g [>70 mg/mmol] • Urinary red cell casts, RBC >20 per high power field sustained and not readily explained • CKD and hypertension refractory to treatment ≥4 antihypertensive agents • Persistent abnormalities of serum potassium • Acidosis • Anemia • Bone disease • Malnutrition",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 139
+    }
+  },
+  {
+    "id": "04f43c14-eeab-4054-aa6f-671bf09bb1b5",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Application of risk prediction tools (Chapter 2) may aid decision-making in terms of identifying those at risk of progression and determining action thresholds for multidis- ciplinary care and placement of access for KRT or referral to transplantation. Current recommendations to use validated risk equations to ascertain those at high probability of kidney failure within 2 years should prompt actions that align with provision of appropriate education activities, review of un-derstanding, and decision-making, and prompting referrals to other healthcare providers (e.g., vascular access surgeons, transplant teams, etc.).",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 140
+    }
+  },
+  {
+    "id": "068c1de2-a102-4b99-a94a-0f9aa563f8cb",
+    "embedding_text": "Disease: ckd\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Practice Point 5.1.2: Refer children and adolescents to specialist kidney care services in the following circumstances: /C15 an ACR of 30 mg/g (3 mg/mmol) or a PCR of 200 mg/g (20 mg/mmol) or more, confirmed on a repeat first morning void sample, when well and not during menstruation, /C15 persistent hematuria, /C15 any sustained decrease in eGFR, /C15 hypertension, /C15 kidney outflow obstruction or anomalies of the kidney and urinary tract, /C15 known or suspected CKD, or /C15 recurrent urinary tract infection.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "KDIGO_CKD_2024",
+      "page": 141
+    }
+  },
+  {
+    "id": "babfc795-e89b-4691-9d19-b532be4ccd81",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: weight loss\nDuration: None\nAction: None\nGuideline statement: Practice Point 5.2.3.2: Screen people with CKD G4–G5, aged >65, poor growth (pediatrics), or symptoms such as involuntary weight loss, frailty, or poor appetite twice annually for malnutrition using a validated assessment tool.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [
+        "weight loss"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 143
+    }
+  },
+  {
+    "id": "ca768232-5aaa-4cb5-94cb-37c70494d8aa",
+    "embedding_text": "Disease: ckd\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Transferring during periods of instability is ill-advised and may amplify the risk of poor outcomes. Healthcare transitions are well known to be strongly associated with adverse outcomes, including loss to follow-up. Young people should have the opportunity to visit the adult clinic before transfer.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "KDIGO_CKD_2024",
+      "page": 149
+    }
+  },
+  {
+    "id": "4b5069a0-9cc8-4cf8-bc42-05cfcb52698c",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Initiate dialysis based on a composite assessment of a person’s symptoms, signs, QoL, preferences, level of GFR, and laboratory abnormalities. Initiate dialysis if the presence of one or more of the following situations is evident (Table 41). This often but not invariably occurs in the GFR range between 5 and 10 ml/min per 1.73 m2. Poor growth refractory to optimized nutrition, growth hormone, and medical management is an indication for initiating KRT in children.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 150
+    }
+  },
+  {
+    "id": "e865100a-d785-4d19-8cfb-887646fc11e7",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In children, poor growth can also be a reason to initiate dialysis. The decision to start dialysis should be reached in discussion with the child (if age appropriate), their caregivers, and their healthcare providers.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 151
+    }
+  },
+  {
+    "id": "00e17d47-970a-40b4-b534-dc7904978ca3",
+    "embedding_text": "Disease: ckd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In patients with chronic kidney disease, the risk of kidney failure associated with the use of acetaminophen, aspirin, and nonsteroidal anti-inflammatory drugs is a concern. Nonsteroidal anti-inflammatory drugs and the risk for chronic renal disease is a significant issue. Associations of opioid prescriptions with death and hospitalization across the spectrum of estimated GFR are also a concern. The nephrotoxicity of alternative medicine practice is a growing concern. Nephrotoxicity of herbal products in Europe is a review of an underestimated problem. Nephrotoxicity associated with exposure to plant toxins, with particular reference to Africa is a significant issue. Interstitial nephritis in a patient taking creatine is a rare but serious side effect. Acute renal failure in a young weight lifter taking multiple food supplements, including creatine monohydrate is a rare but serious side effect. Ichthyotoxic ARF after fish gallbladder ingestion is a large case series from Vietnam. A review of dietary supplement-induced renal dysfunction is a significant issue. Pharmacology behind common drug nephrotoxicities is a review of the current state of knowledge. Barriers to accessing essential medicines for kidney disease in low- and lower middle-income countries is a significant issue. Female reproductive and gynecologic considerations in chronic kidney disease: adolescence and young adulthood is a review of the current state of knowledge. The effect of non-oral hormonal contraceptives on hypertension and blood pressure: a systematic review and meta-analysis is a review of the current state of knowledge. Pre-pregnancy eGFR and the risk of adverse maternal and fetal outcomes: a population-based study is a significant issue. Systemic lupus erythematosus management in pregnancy is a review of the current state of knowledge. The EULAR points to consider for use of antirheumatic drugs before pregnancy, and during pregnancy and lactation is a review of the current state of knowledge. Sex- and gender-based pharmacological response to drugs is a review of the current state of knowledge. Sex differences in pharmacokinetics and pharmacodynamics is a review of the current state of knowledge. Drug adherence in chronic kidney diseases and dialysis is a significant issue. International consensus guideline on anticancer drug dosing in kidney dysfunction is a review of the current state of knowledge. Heart failure medication dosage and survival in women and men seen at outpatient clinics is a significant issue. Identifying optimal doses of heart failure medications in men compared with women: a prospective, observational, cohort study is a review of the current state of knowledge. Gender differences in the renal response to renin-angiotensin system blockade is a review of the current state of knowledge.",
+    "metadata": {
+      "disease": "ckd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "KDIGO_CKD_2024",
+      "page": 194
+    }
+  }
+]

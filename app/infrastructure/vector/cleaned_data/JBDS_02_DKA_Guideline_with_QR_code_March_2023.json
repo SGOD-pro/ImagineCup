@@ -1,0 +1,333 @@
+[
+  {
+    "id": "2544cd08-9abb-4b62-a0f2-df8c6bbbfce6",
+    "embedding_text": "Disease: dka\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: The practice of admitting, treating and discharging those with DKA without the involvement of the diabetes specialist team is likely to compromise safe patient care.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "JBDS_DKA_2023",
+      "page": 12
+    }
+  },
+  {
+    "id": "b2dafdbb-30b4-43b9-8fcd-b96e27bd8231",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Once the glucose drops to <14 mmol/L then in addition to adding a 10% dextrose infusion consider reducing the rate of intravenous insulin infusion to 0.05 units/kg/hr to avoid the risk of developing hypoglycaemia and hypokalaemia.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 13
+    }
+  },
+  {
+    "id": "1ccb52b5-8584-44e1-b8b7-a42f612d6bb5",
+    "embedding_text": "Disease: dka\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: In line with several aspects of the Best Practice Tariff, people with diabetes who are admitted with DKA should be referred to the diabetes specialist team within one working day. For those with recurrent admissions, there is often a psychological element (e.g. eating disorders, other undiagnosed mental health disorders), that is likely to benefit from formal mental health team involvement.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "JBDS_DKA_2023",
+      "page": 15
+    }
+  },
+  {
+    "id": "0d262189-70b6-4580-a6cd-f4c985beb71c",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Reduce rate of insulin infusion to 0.05 units/kg/hr when glucose drops to <14 mmol/L. Crystalloid rather than colloid solutions are recommended for fluid resuscitation. 0.9% sodium chloride solution (‘normal saline’) is the fluid resuscitation of choice.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 16
+    }
+  },
+  {
+    "id": "f9af8011-39a4-467d-b5d8-0900c1548b28",
+    "embedding_text": "Disease: dka\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Reduce the rate of insulin infusion to 0.05 units/kg/hr when glucose drops to <14.0 mmol/L",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "JBDS_DKA_2023",
+      "page": 17
+    }
+  },
+  {
+    "id": "884c8692-bf34-4a1b-b6f6-b52c58271b46",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If any of these are present phosphate measurement and replacement should be considered as per local guidance.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 19
+    }
+  },
+  {
+    "id": "e8da93be-f6b0-465d-a096-1d6bf27461cc",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: When glucose drops below 14 mmol/L, consider reducing the rate of intravenous insulin infusion to 0.05 units/kg/hr. Severe hypoglycaemia (i.e. requiring third party assistance) is also associated with increased length of stay, cardiac arrhythmias, acute brain injury and death.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 20
+    }
+  },
+  {
+    "id": "5c6f6040-5431-4006-94dc-c80cd23fc099",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: When DKA does occur in end stage renal disease, several issues need to be considered. Fluid replacement The inability to develop an osmotic diuresis means that dialysis associated hyperglycaemia and ketosis can occur without much dehydration. A mixed picture of DKA and HHS may also occur because of the high serum tonicity (56). In addition, the circulating intravascular volume may increase at the expense of intracellular volume that resolves as the glucose and ketosis normalises. Therefore there may be no need for fluid replacement in those with end stage renal failure or those on dialysis. However, for those who are deemed hypovolaemic, aliquots of 250 ml (0.9% sodium chloride or 10% dextrose) may be given with frequent clinical assessments. For people with end stage renal failure or those on dialysis, insulin replacement is the mainstay of treatment. This should be given as a FRIII at an initial rate of 0.1 units/kg/hr, but may need to increase if the required rate of glucose fall is not achieved. However, the failure to renally clear insulin increases the risk of hypoglycaemia. However, the rate of glucose reduction is the same as for people with preserved renal function – i.e. 3.0 mmol/L/hour. If the rate of fall is faster, or the glucose falls to <14.0 mmol/L strongly consider reducing the rate of intravenous insulin infusion to 0.05 units/kg/hr.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 21
+    }
+  },
+  {
+    "id": "376f6793-ed79-4bba-b39e-5a1b850e9fdb",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Women who are suspected of having DKA must be admitted to the delivery suite or the high dependency unit where they can receive medical and obstetric care.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 22
+    }
+  },
+  {
+    "id": "551342a2-fec1-43a9-a75a-9edf9d4d5bfb",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: The presence of one or more of the following may indicate severe DKA: • Blood ketones over 6.0 mmol/L • Bicarbonate level below 5.0 mmol/L • Venous/arterial pH below 7.0 • Hypokalaemia on admission (under 3.5 mmol/L) • GCS less than 12 or abnormal AVPU scale • Oxygen saturation below 92% on air (assuming normal baseline respiratory function) • Systolic BP below 90 mmHg • Pulse over 100 or below 60 bpm • Anion gap above 16",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 23
+    }
+  },
+  {
+    "id": "97bc7111-815d-40bb-94c3-d138b34b0813",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Consider referral to a Level 2 / HDU environment if criteria for severity are met or if facilities for intensive monitoring are unavailable. A drowsy individual in the context of DKA is seriously concerning and the person requires critical care assessment.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 24
+    }
+  },
+  {
+    "id": "6db30e2f-ea40-41ec-a792-e3deae376658",
+    "embedding_text": "Disease: dka\nSignal type: early_warning\nSymptoms: hypotension\nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Assess the severity of dehydration using pulse and blood pressure. As a guide 90 mmHg may be used as a measure of hydration but take age, gender and concomitant medication into account. Systolic BP (SBP) on admission below 90 mmHg Hypotension is likely to be due to low circulating volume, but consider other causes such as heart failure, sepsis, etc. Give 500 ml of 0.9% sodium chloride solution over 10-15 minutes. If SBP remains below 90 mmHg this may be repeated whilst awaiting senior input. In practice most individuals require between 500 to 1000 ml given rapidly. If there has been no clinical improvement reconsider other causes of hypotension and seek an immediate senior assessment. Consider involving the ITU/critical care team. Once SBP above 90 mmHg follow fluid replacement as shown below",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "early_warning",
+      "symptoms": [
+        "hypotension"
+      ],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "JBDS_DKA_2023",
+      "page": 25
+    }
+  },
+  {
+    "id": "2ce05000-f190-438f-8d31-2673ee39a496",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Exercise caution in the following groups: • Young people aged 18-25 years • Elderly • Pregnant • Heart or kidney failure • Other serious co-morbidities. In these situations admission to a Level 2 / HDU facility should be considered.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 26
+    }
+  },
+  {
+    "id": "775240ed-3aae-4cca-b70c-4746a15b1185",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: vomiting\nDuration: None\nAction: None\nGuideline statement: Consider referral to a Level 2 (HDU) environment if criteria for severity are met after initial resuscitation or if facilities for intensive monitoring are unavailable. If the oxygen saturation falls, then perform an arterial blood gas measurement and request a repeat chest radiograph. If the Glasgow Coma Scale score drops, then urgent brain imaging should be considered. Continuous cardiac monitoring in those with severe DKA. Consider naso-gastric tube insertion if the person is obtunded or persistently vomiting.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [
+        "vomiting"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 27
+    }
+  },
+  {
+    "id": "c9fe4d7b-9304-40e0-82b7-2f0996a9241e",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If blood ketone measurement is available and blood ketones are not falling by at least 0.5 mmol/L/hr, call a prescribing clinician to increase the insulin infusion rate by 1.0 unit/hr increments hourly until the ketones are falling at target rates (also check infusion)**",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 28
+    }
+  },
+  {
+    "id": "52f6f1bb-7dfd-4873-967d-8de56f37e225",
+    "embedding_text": "Disease: dka\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Consider referral to a Level 2 (HDU) environment if criteria for severity are met despite adequate treatment, or if there is a deterioration in clinical status, or if facilities for intensive monitoring are unavailable.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "JBDS_DKA_2023",
+      "page": 29
+    }
+  },
+  {
+    "id": "59a476a1-b6da-4df6-91b1-c43e3cbab474",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If DKA has not resolved, refer to Action 2 in Section B and seek senior specialist advice as a matter of urgency.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 30
+    }
+  },
+  {
+    "id": "2748ba99-696f-4dd6-85fd-3ce3ec6a17db",
+    "embedding_text": "Disease: dka\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: If this expectation is not met within this time period it is important to identify and treat the reasons for the failure to respond to treatment – e.g. gastritis. It is unusual for DKA not to have biochemically resolved by 24 hours with appropriate treatment and requires senior and specialist input.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "JBDS_DKA_2023",
+      "page": 31
+    }
+  },
+  {
+    "id": "46bd9df4-95dd-4f6a-97d6-fae68e77265d",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Cerebral oedema remains the most common cause of mortality, particularly in young children and adolescents. The main causes of mortality in the adult population include severe hypokalaemia, adult respiratory distress syndrome, and co-morbid states which may have precipitated the DKA such as pneumonia, acute myocardial infarction and sepsis.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 32
+    }
+  },
+  {
+    "id": "69ddfe81-3705-438a-bdfa-52e6ed738d65",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In those new to insulin therapy, dose requirements may decrease within a few days because the insulin resistance associated with DKA resolves. Close supervision from the diabetes specialist team is required.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 40
+    }
+  },
+  {
+    "id": "1d4aa9cd-34a1-4ad2-b481-d153f8c07704",
+    "embedding_text": "Disease: dka\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: People admitted to hospital with diabetic ketoacidosis should be referred to the diabetes specialist team on admission. People admitted to hospital with diabetic ketoacidosis should be seen by member of the diabetes specialist team within 1 working day of admission.",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "JBDS_DKA_2023",
+      "page": 42
+    }
+  },
+  {
+    "id": "fcd211c5-b909-485a-b872-049dc0f874e5",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If patient satisfies all ENTRY CRITERIA, commence insulin therapy (see BOX 1); intravenous fluid management (see BOX 2, BOX 3 and BOX 4); and intravenous fluid prescription (see BOX 5) If patient has ketonaemia WITHOUT acidosis (pH≥7.3 or HCO3≥15 mmol/L, intravenous insulin therapy may not be required BUT intravenous fluid hydration and subcutaneous insulin dose correction may be necessary",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 45
+    }
+  },
+  {
+    "id": "be231c21-618f-4294-9652-2dfdf272d47c",
+    "embedding_text": "Disease: dka\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: SWITCH FROM FIXED RATE INTRAVENOUS INSULIN INFUSION TO VARIABLE RATE INTRAVENOUS INSULIN INFUSION (VRIII) with 10% Dextrose with 0.15% KCl at 50 mls/hr IF: DKA: CAPILLARY BLOOD KETONES < 0.6 mmol/L and HCO3 > 15 mmol/L and STILL not eating and drinking HHS: Biochemical markers have normalised and STILL not eating and drinking",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "JBDS_DKA_2023",
+      "page": 46
+    }
+  },
+  {
+    "id": "286a6e7f-6937-4822-9e90-ec6cca470517",
+    "embedding_text": "Disease: dka\nSignal type: early_warning\nSymptoms: hypotension\nDuration: None\nAction: Further evaluation recommended\nGuideline statement: CONFIRM DKA CBG  mmol/L 1. Capillary blood glucose (CBG) 11.0mmol/L or known diabetes Ketones mmol/L 2. Capillary blood ketones>3.0mmol/L or 2+ ketonuria   pH  3. Venous pH<7.3 and/or venous bicarbonate<15mmol/L   HCO3 -  mmol/L ACTION 5 Patient shocked (SBP<90 mmHg) or severe DKA*             SpR/Consultant informed?        YES  Give 500ml 0.9% Sodium Chloride (NaCl) over 15 mins and give another 500ml bolus over 15mins if SBP still<100mmHg   Severe DKA* (Hypotension is likely to be due to low circulating volume but consider other causes  such as sepsis/heart failure etc.) SBP<90, Pulse>100/<60",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "early_warning",
+      "symptoms": [
+        "hypotension"
+      ],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "JBDS_DKA_2023",
+      "page": 48
+    }
+  },
+  {
+    "id": "0b8e27b8-3bb7-4e17-b629-ac5ae3c40886",
+    "embedding_text": "Disease: dka\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: IF THIS IS NOT BEING ACHIEVED, CHECK LINES, THEN INCREASE RATE OF INSULIN BY 1-2mL/hour",
+    "metadata": {
+      "disease": "dka",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "JBDS_DKA_2023",
+      "page": 49
+    }
+  }
+]

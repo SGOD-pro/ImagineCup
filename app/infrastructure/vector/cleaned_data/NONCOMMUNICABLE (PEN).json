@@ -1,0 +1,309 @@
+[
+  {
+    "id": "e2c5fd5e-1b4d-47e1-9060-8494e6577425",
+    "embedding_text": "Disease: ncd\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Diagnosed heart disease, stroke, Transient Ischaemic Attack (TIA), DM, kidney disease, Angina, breathlessness on exertion and lying flat, numbness or weakness of limbs, loss of weight, increased thirst, polyuria, puffiness of face, swelling of feet, passing blood in urine etc",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_PEN",
+      "page": 16
+    }
+  },
+  {
+    "id": "51d23f5c-0ef5-42b2-82e1-53f0599031cd",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Consider drug treatment if SHUVLVWHQW %3 Ȳ \u0014\u0017\u0013\u0003\u0012\u001c\u0013\u0003PP+J. Give a statin if SHUVLVWHQW %3 Ȳ\u0014\u0017\u0013\u0003\u0012\u001c\u0013\u0003PP+J.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 19
+    }
+  },
+  {
+    "id": "88904d2e-b745-406c-9d00-a9fb203a3210",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If there is no reduction in cardiovascular risk after 6 months of follow up refer to next level",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 20
+    }
+  },
+  {
+    "id": "703f78fa-5659-41aa-bbdd-c8413af43e58",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Measuring blood pressure is the only way to diagnose hypertension, as most people with raised blood pressure have no symptoms.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 21
+    }
+  },
+  {
+    "id": "e1024b9b-b6a7-42a8-9d06-275eac8b47dc",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For most patients, blood pressure is considered controlled when SBP < 140 mmHg and DBP < 90 mmHg. However, for patients with diabetes or a high risk of CVD, certain guidelines recommend lower targets: SBP < 130 mmHg and DBP < 80 mmHg.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 22
+    }
+  },
+  {
+    "id": "8363296a-72fa-4ef5-bb9d-cdf22a5fce2e",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Management of risk factors  and referral as appropriate",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 25
+    }
+  },
+  {
+    "id": "ed6613ec-9eab-460d-9e88-fcef9d40472c",
+    "embedding_text": "Disease: ncd\nSignal type: early_warning\nSymptoms: weight loss, fatigue\nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Polyuria (excessive passing of urine)\nPolydipsia (excessive thirst)\nUnexplained weight loss\nPolyphagia (excessive hunger)\nVision changes\nFatigue\nSymptoms\nAcute metabolic deterioration and/or \nacute presentation of chronic complications \nSevere dehydration\nKussmaul’s respiration \nAltered level of consciousness \nComplications (acute coronary disease, stroke, \nkidney disease, vision loss, diabetic foot)",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "early_warning",
+      "symptoms": [
+        "weight loss",
+        "fatigue"
+      ],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_PEN",
+      "page": 26
+    }
+  },
+  {
+    "id": "e9cac54f-3ec7-4d3d-9799-cb62531f1cfd",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If patient is not fasting and has symptoms, a random plasma glucose (RPG) test can also be performed. It is the least accurate of the diagnostic tests.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 27
+    }
+  },
+  {
+    "id": "9ab143ec-9708-416d-a084-f17e92e3c29e",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If FPG/RPG > 18 mmol/L (325 mg/dl), begin Metformin 500 mg 1 x daily. Refer to higher-level of care if goal not achieved. If ketones present, reassess in 3-5 days.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 29
+    }
+  },
+  {
+    "id": "fe79d95f-b482-4b35-a824-2e7b319ff2a0",
+    "embedding_text": "Disease: ncd\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: If goal not achieved, despite adherence to medication healthy diet and physical activity, REFER to higher-level health care facility for starting insulin. If goal not achieved, REFER to higher-level health care facility for starting insulin. If goal not achieved, REFER to higher level of care. If goal not achieved, REFER to higher-level of care.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_PEN",
+      "page": 30
+    }
+  },
+  {
+    "id": "bdbdd84a-b6bf-4dc1-bd76-563122887662",
+    "embedding_text": "Disease: ncd\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: If conscious, give a sugar-sweetened drink; If unconscious, give 20–50 ml of 50% glucose (dextrose) IV over 1–3 minutes; Set up intravenous drip 0.9% NaCl 1 litre in 2 hours; REFER to hospital",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_PEN",
+      "page": 31
+    }
+  },
+  {
+    "id": "6de36e7a-f051-4013-9615-9973dec27222",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: When diabetes is diagnosed, monitor glycaemic control every 3 months until diabetes is controlled, then every 6 months after that. HbA1c is the most accurate measurement of long-term glycaemic control and represents the average blood glucose over the previous two to three weeks. In people with frequent severe hypoglycaemia, severe complications and low life-expectancy, the goal for HbA1c could be relaxed, e.g. to <8%. If the goal for HbA1c is not achieved in \u0016  PRQWKV\u000f\u0003, follow up with higher frequency of FDUH\u0003LI\u0003JRDO\u0003LV\u0003QRW\u0003DFKLHYHG\u0003LQ\u0003\u0016\u0003PRQWKV\u000f\u0003",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 32
+    }
+  },
+  {
+    "id": "03cc4ba4-c46d-4e3a-9d6e-f62a10d64ce2",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: cough, shortness of breath\nDuration: None\nAction: None\nGuideline statement: Symptoms started in middle age or later (after age 40) and worsened slowly over a long period of time, with long history of daily or frequent cough and sputum production starting before shortness of breath.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [
+        "cough",
+        "shortness of breath"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 37
+    }
+  },
+  {
+    "id": "14efa142-ecd9-41c0-ba61-096703c56bba",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: WZR SX΍V RI VDOEXWDPRO DQG PHDVXUH DJDLQ DIWHU \u0014\u0018 PLQXWHV",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 38
+    }
+  },
+  {
+    "id": "c12c9151-ddea-455a-bd98-cd9b256b0ba0",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: exhibits daytime asthma symptoms and uses a beta agonist one or two times a week; exhibits night time asthma symptoms one or two times per month; puts no or only minimal limitations on daily activities; has had no severe exacerbation (i.e. requiring oral steroids or admission to hospital within a month); a PEFR, if available, above 80% predicted.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 39
+    }
+  },
+  {
+    "id": "c762a02b-f8d6-409f-9626-a0243b2541fa",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Referral for specialist when: asthma remains poorly controlled the diagnosis of asthma is uncertain regular oral prednisolone is required to maintain control Inhaled salbutamol prn plus low-dose inhaled EHFORPHWDVRQH\u000f\u0003VWDUWLQJ\u0003ZLWK\u0003\u0014\u0013\u0013\u0003ƉJ\u0003WZLFH\u0003GDLO\\\u0003IRU\u0003DGXOWV\u0003DQG\u0003\u0014\u0013\u0013\u0003ƉJ\u0003RQFH\u0003RU\u0003WZLFH\u0003GDLO\\\u0003IRU\u0003FKLOGUHQ Patient and family education The importance of physical activity and regular exercises Information on the reversible nature of the illness, and that asthma can be controlled but may need continuous therapy and regular follow up 5DWLRQDOH\u0003IRU\u0003LQKDOHG\u0003GUXJV\u000f\u0003GL΍HUHQW\u0003LQKDOHU\u0003devices and inhalation techniques Information that inhalers are not habit-forming, and are safe and better than tablets or syrup Patients should to carry their device at each follow up visit The need for adherence to prescribed drugs to control the condition Advice regarding dealing with triggers/precipitants 2 Same as step 2, but give higher doses of inhaled EHFORPHWDVRQH\u000f\u0003\u0015\u0013\u0013\u0003ƉJ\u0003RU\u0003\u0017\u0013\u0013\u0003ƉJ\u0003WZLFH\u0003GDLO\u0003 Add low-dose oral theophylline to Step 3 treatment (assuming long-acting beta agonists and leukotriene antagonists are not available) 4 Add oral prednisolone, but in the lowest dose possible to control symptoms (nearly always less than 10 mg daily) 5 FOLLOW UP 5HYLHZ\u0003DVWKPD\u0003FRQWURO\u0003HYHU\\\u0003\u0016Ȃ\u0019\u0003PRQWKV\u0003DQG\u0003PRUH\u0003IUHTXHQWO\\\u0003ZKHQ\u0003WUHDWPHQW\u0003KDV\u0003EHHQ\u0003FKDQJHG\u0003RU\u0003DVWKPD\u0003LV\u0003QRW\u0003ZHOO\u0003FRQWUROOHG\u0011 –  Symptoms are present only during the day (daytime asthma) – Use of salbutamol is limited to no more than twice a week – Night symptoms occur fewer than twice a month – No or minimal limitation of daily activities – No severe exacerbations within a month – PEFR > 80% of predicted $VWKPD\u0003LV\u0003FRQWUROOHG\u0003ZKHQ",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 40
+    }
+  },
+  {
+    "id": "534b525c-5b0d-43ef-8dc0-8de918456ab8",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: hypotension\nDuration: None\nAction: None\nGuideline statement: Altered conscious level, exhaustion, arrhythmia, hypotension, cyanosis, silent SpO2 < 92% TREAT Very severe altered conscious level, exhaustion, arrhythmia, hypotension, cyanosis, silent SpO2 < 92% is a severe asthma exacerbation that requires treatment. First-line treatment is ASSESS SEVERITY 3UHGQLVRORQH\u0003\u0016\u0013Ȃ\u0017\u0013\u0003PJ\u0003IRU\u0003ȴYH\u0003GD\\V\u0003IRU\u0003DGXOWV\u0003DQG\u0003\u0014\u0003 mg per kg for three days for children, or longer, if necessary, until they have recovered",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [
+        "hypotension"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 41
+    }
+  },
+  {
+    "id": "36a2273a-bc3a-4782-9449-9a857b70dff7",
+    "embedding_text": "Disease: ncd\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Increase frequency of dosing via an metered dose inhaler and spacer or by nebulizer, or give salbutamol by continuous nebulization at 5–10 mg per hour, if appropriate nebulizer available.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_PEN",
+      "page": 42
+    }
+  },
+  {
+    "id": "6c201d78-0a95-4709-985d-2cd2515ef59f",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If breathless at rest TREAT ASSESS SEVERITY Antibiotics should be given for all exacerbations with evidence of infection If breathless with normal activity Measure PEFR and oxygen saturation, if possible",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 43
+    }
+  },
+  {
+    "id": "9d92cda3-33d0-417a-aa10-99215f743f48",
+    "embedding_text": "Disease: ncd\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Primary care providers should explain to patients that symptoms may be related to cancer and that timely referral to a specialist may be required. Clear steps to the next level of care should be provided to patients.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_PEN",
+      "page": 49
+    }
+  },
+  {
+    "id": "7a5147a5-aa34-4325-a220-54351b4e6a7d",
+    "embedding_text": "Disease: ncd\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Referral of women with the above symptoms may lead to a diagnosis of “early invasive cervical cancer”, particularly in women aged 30 years or above. If condition is not manageable at PHC, or persists or worsens",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_PEN",
+      "page": 52
+    }
+  },
+  {
+    "id": "8db45c34-afe1-48d1-bf7d-c36cff76daac",
+    "embedding_text": "Disease: ncd\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: REFER IMMEDIATELY TO NEXT LEVEL OF CARE, Referral of women with small breast lumps may lead to diagnosis of “early breast cancer”, If symptoms B or C at follow-up NO YES",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_PEN",
+      "page": 54
+    }
+  },
+  {
+    "id": "cc9f3f6d-0285-4f3e-acbd-a03e04f00ddc",
+    "embedding_text": "Disease: ncd\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: Self-monitoring in asthma and COPD and self-adjustment of dosage is recommended according to an agreed action plan with a health professional.",
+    "metadata": {
+      "disease": "ncd",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "WHO_PEN",
+      "page": 63
+    }
+  }
+]

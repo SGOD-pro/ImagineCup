@@ -1,0 +1,357 @@
+[
+  {
+    "id": "7c03d4c9-1137-4f57-8a8f-4fbbf030a2eb",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If the body immune mechanism is not seriously compromised, approximately 90% of the infected cases will not develop tuberculosis disease; in this case the bacilli usually remain dormant within the body. The remaining 10% of infected individuals will subsequently develop disease, half of them within 1-2 years after infection, the other half later in their life.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 26
+    }
+  },
+  {
+    "id": "65a2605d-b044-45de-87e5-be88d4b3f97d",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: cough, fever, night sweats, shortness of breath, chest pain\nDuration: None\nAction: None\nGuideline statement: A patient with pulmonary TB has one or more of the following symptoms in addition to cough: respiratory symptoms: shortness of breath, chest pain, coughing up of blood; general symptoms: loss of weight, loss of appetite, fever, night sweats.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [
+        "cough",
+        "fever",
+        "night sweats",
+        "shortness of breath",
+        "chest pain"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 38
+    }
+  },
+  {
+    "id": "a2528e62-e6a9-46a1-856f-b2788463599c",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If the patient attends a centre without microscopy or Xpert MTB/RIF facility, the responsible staff should ensure that the two sputum specimens are collected and transported to the laboratory as soon as possible after collection.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 39
+    }
+  },
+  {
+    "id": "51b0e590-4bd4-4dd1-b812-3659056891c7",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If an EP case on treatment develops chest symptoms, then his or her sputum should be collected and examined by smear microscopy/gene Xpert.  In case sputum is positive on smear microscopy in any of the follow up examination, additional samples needs to be collected and sent for Xpert MTB/RIF testing.  Patients on treatment, who remain smear positive at the end of IP (2nd month) but whose Xpert MTB/RIF results are sensitive for rifampicin, should be initiated on the continuation phase of treatment.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 40
+    }
+  },
+  {
+    "id": "0a724c60-8018-48ef-9ae9-e6144b555e8d",
+    "embedding_text": "Disease: tuberculosis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: If the patient is sputum smear-positive at the time of delivery, infant should be carefully examined for evidence of active disease. If the infant is ill at birth and congenital TB is suspected, a full course of anti-TB treatment should be given. If the child is well, give prophylactic treatment of daily INH and Rifampicin for 3 months (3RH regimen) at recommended dosages.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_TB_MANUAL",
+      "page": 41
+    }
+  },
+  {
+    "id": "faba4e09-74e2-417a-884c-acdabef801ad",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If an EP case on treatment develops chest symptoms, then his or her sputum should be collected and examined by smear microscopy/gene Xpert.  Patients on treatment, who remain smear positive at the end of IP (2nd month) but whose Xpert MTB/RIF results are sensitive for rifampicin, should be initiated on the continuation phase of treatment.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 45
+    }
+  },
+  {
+    "id": "0ff3e7f3-5d37-430b-9f7e-3a7280173b66",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If the patient attends a centre without microscopy or Xpert MTB/RIF facility, the responsible staff should ensure that the two sputum specimens are collected and transported to the laboratory as soon as possible after collection. If delay is unavoidable, the specimens should be refrigerated (for maximum up to one week) to inhibit the growth of unwanted micro-organisms.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 47
+    }
+  },
+  {
+    "id": "4bf4327b-61b7-4017-85e6-17bf6493843f",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Patients with severe renal insufficiency or failure should receive pyridoxine 10 mg daily in order to prevent peripheral neuropathy. Treatment of TB is the same as for non-diabetics.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 51
+    }
+  },
+  {
+    "id": "50158ec2-ce3a-4b34-b2fd-e4961e6b176a",
+    "embedding_text": "Disease: tuberculosis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Patients who are Bacteriological positive according to the laboratory register but are yet to be registered and initiated on treatment should be traced within two weeks after the laboratory result is available and started on the appropriate treatment regimen.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_TB_MANUAL",
+      "page": 55
+    }
+  },
+  {
+    "id": "f0406906-3450-41c1-880b-4e18dc0fc757",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: • respiratory distress • severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB • severe adverse reactions such as hepatotoxicity. Health workers/ DOT providers can monitor side effects of drugs by teaching patients to recognize symptoms of common side effects and to self-report promptly if such symptoms develop.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 57
+    }
+  },
+  {
+    "id": "026ade5b-d233-404c-b652-fbbc4e82bdcb",
+    "embedding_text": "Disease: tuberculosis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: • respiratory distress • severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB • severe adverse reactions such as hepatotoxicity. All children must be treated using child-friendly (dispersible and flavoured) FDC.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_TB_MANUAL",
+      "page": 59
+    }
+  },
+  {
+    "id": "bee1c4fd-b305-45fa-b6fd-f98f64db1a26",
+    "embedding_text": "Disease: tuberculosis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: If a child (<15 years) in close contact with a known bacteriologically confirmed TB or clinically confirmed TB should be regarded as presumptive TB case and referred to a physician for evaluation. Any one of the above symptom criteria in a child (<15 years) in close contact with a known bacteriologically confirmed TB or clinically confirmed TB should be regarded as presumptive TB case and referred to a physician for evaluation.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_TB_MANUAL",
+      "page": 61
+    }
+  },
+  {
+    "id": "70bc0845-a980-4bf5-a440-265f0e09c8e8",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: cough, weight loss, shortness of breath, vomiting, abdominal pain\nDuration: None\nAction: None\nGuideline statement: If any of the above symptoms are associated with a history of contact, possibility of TB is high\nSymptoms and Sign\n\nExtra-pulmonary TB\nA painless enlarged mass of matted lymph nodes (>2x2 cm), \nusually in the neck, not fixed to the underlying tissues, \ninitially firm and fluctuant later, that may present with sinus, \nand is not responding to a course of antibiotics\nTB lymphadenitis\n(commonly cervical)\n\nCough and shortness of breath\nPleural TB, Pericardial TB\n\nReduced playfulness, irritability, weight loss,\nheadache, vomiting without diarrhea, drowsiness, lethargy, \nunconsciousness, convulsions; and not responding to \n\nantibiotic\nTB meningitis, Tuberculoma\n\nAbdominal pain, altered bowel habit, unexplained mass\nor abdominal ascites\n\nGibbus (acute angulation of vertebrae)\nSpinal TB\n\nChronic pain and swelling of joint(s), usually single\nTB arthritis",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [
+        "cough",
+        "weight loss",
+        "shortness of breath",
+        "vomiting",
+        "abdominal pain"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 62
+    }
+  },
+  {
+    "id": "b3f486e1-4f57-4bfd-bd38-5f541941aa9b",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: respiratory distress, severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB, severe adverse reactions such as hepatotoxicity.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 63
+    }
+  },
+  {
+    "id": "14fe6fc3-3f81-4198-9eea-ceef2098b494",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: • respiratory distress • severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB • severe adverse reactions such as hepatotoxicity",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 66
+    }
+  },
+  {
+    "id": "8cb1bc49-fd59-48fd-85cd-3222571d7098",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children aged less than 5 years of age, who are close contacts of a bacteriologically confirmed (smear or Xpert +ve) TB patient, should be evaluated for active TB by a medical officer / paediatrician. After excluding active TB, the child should be given INH preventive therapy irrespective of their BCG or nutritional status. The dose of INH for preventive therapy is 10 mg/kg body weight, administered daily, for a period of six months. Children with any of the following conditions must be admitted to the hospital: respiratory distress, severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB, severe adverse reactions such as hepatotoxicity.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 67
+    }
+  },
+  {
+    "id": "03852949-331a-409f-8a37-2da28e677c55",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: respiratory distress, severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB, severe adverse reactions such as hepatotoxicity.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 68
+    }
+  },
+  {
+    "id": "32105272-496c-4848-98f4-1ac8bb421174",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: • respiratory distress • severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB • severe adverse reactions such as hepatotoxicity.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 69
+    }
+  },
+  {
+    "id": "96ddf4fc-0975-46b3-895c-3bc8165d0926",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: • respiratory distress • severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB • severe adverse reactions such as hepatotoxicity.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 70
+    }
+  },
+  {
+    "id": "6bf713bb-9a6b-4bce-97d2-922bee29ed36",
+    "embedding_text": "Disease: tuberculosis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: • respiratory distress • severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB • severe adverse reactions such as hepatotoxicity. Health workers/ DOT providers can monitor side effects of drugs by teaching patients to recognize symptoms of common side effects and to self-report promptly if such symptoms develop.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_TB_MANUAL",
+      "page": 71
+    }
+  },
+  {
+    "id": "e6c98296-d81a-49d3-aeba-d93472510b4c",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: • respiratory distress • severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB • severe adverse reactions such as hepatotoxicity.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 72
+    }
+  },
+  {
+    "id": "05898b25-9936-4d4b-af5c-945c25926c22",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: respiratory distress, severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB, severe adverse reactions such as hepatotoxicity. Health workers/ DOT providers can monitor side effects of drugs by teaching patients to recognize symptoms of common side effects and to self-report promptly if such symptoms develop.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 73
+    }
+  },
+  {
+    "id": "72b940a9-081d-41a9-ab68-75de7170d484",
+    "embedding_text": "Disease: tuberculosis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Children with any of the following conditions must be admitted to the hospital: • respiratory distress • severe forms of EPTB such as TB meningitis, miliary TB, spinal TB and pericardial TB • severe adverse reactions such as hepatotoxicity. Health workers/ DOT providers can monitor side effects of drugs by teaching patients to recognize symptoms of common side effects and to self-report promptly if such symptoms develop.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_TB_MANUAL",
+      "page": 74
+    }
+  },
+  {
+    "id": "0e4f7b1e-4c41-45d5-9eae-776e5d3cc718",
+    "embedding_text": "Disease: tuberculosis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: All household and close contacts of people with active TB should have a nutrition screening and assessment as part of contact investigation. If malnutrition is identified, it should be managed according to WHO recommendations. TB causes weight-loss and macro- and micro-nutritional deficiencies. The bi-directional association between undernutrition and TB leads to a high prevalence of undernutrition among people with TB. Proper TB treatment helps restore normal weight and nutrition. However, the time to full nutritional recovery can be long and many TB patients are still undernourished after TB treatment is completed. Proper nutritional care improves nutritional recovery for people who are undernourished, and therefore helps reduce future health risks.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "WHO_TB_MANUAL",
+      "page": 87
+    }
+  },
+  {
+    "id": "65c7fb93-e5c1-4401-b39b-08ab394b8598",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Individuals who receive treatment for LTBI do not have active disease, and therefore, it is mandatory to minimize risks during treatment. Drug-specific adverse reactions can occur with isoniazid (asymptomatic elevation of serum liver enzyme concentrations, peripheral neuropathy and hepatotoxicity); rifampicin and rifapentine (cutaneous reactions, hypersensitivity reactions, gastrointestinal intolerance and hepatotoxicity). While most adverse drug reactions are minor and occur rarely, special attention should be given to prevention of drug-induced hepatotoxicity.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 88
+    }
+  },
+  {
+    "id": "21190e24-0741-4a7d-b564-b8a4221935b8",
+    "embedding_text": "Disease: tuberculosis\nSignal type: severity\nSymptoms: weight loss, vomiting, diarrhoea, abdominal pain\nDuration: None\nAction: None\nGuideline statement: Nutritional deficiencies are generally associated with an increased risk for contracting TB and has an effect on the severity of the disease. Undernutrition and tuberculosis (TB) are closely linked and both are public health problems. In TB, as in many other infectious diseases, there is a bidirectional interaction between nutritional status and active disease, undernutrition is associated with an increased frequency, severity and fatality of infections, including TB; while infections in turn lead to undernutrition. The association between TB and undernutrition has long been known. TB makes undernutrition worse and undernutrition weakens immunity, thereby increasing the likelihood that latent TB will develop into active disease. Most individuals with active TB are in a catabolic state and experience weight loss and some show signs of vitamin and mineral deficiencies at diagnosis. Weight loss among those with TB can be caused by several factors, including reduced food intake due to loss of appetite, nausea and abdominal pain; nutrient losses from vomiting and diarrhoea and metabolic alterations caused by the disease. Low body mass index (BMI) (lower than 18.5 kg/m2) and lack of adequate weight gain with TB treatment are associated with an increased risk of death and TB relapse and can be an indication of severity of TB, poor treatment response and/or the presence of other comorbid conditions. A weakened immune system - caused by malnutrition - can be quickly and easily corrected by just giving the body the nutrients it needs. Thus, nutritional intervention in combination with appropriate pharmaceutical therapy could improve the outcome in malnourished TB patients.",
+    "metadata": {
+      "disease": "tuberculosis",
+      "signal_type": "severity",
+      "symptoms": [
+        "weight loss",
+        "vomiting",
+        "diarrhoea",
+        "abdominal pain"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "WHO_TB_MANUAL",
+      "page": 92
+    }
+  }
+]

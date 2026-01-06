@@ -1,0 +1,602 @@
+[
+  {
+    "id": "ecbd2938-c697-449c-a8f7-1d75eacacfa3",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For patients with sepsis induced hypoperfusion or septic shock we suggest that at least 30 mL/kg of IV crystalloid fluid should be given within the first 3 hours of resuscitation.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 12
+    }
+  },
+  {
+    "id": "d669c27b-ca38-45cf-9fad-3f268727274e",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If fluid therapy beyond the initial 30 mL/kg administration is required, clinicians may use repeated small boluses guided by objective measures of SV and/or CO. In post-cardiac surgery patients, fluid challenges of 4 mL/kg compared to 1 to 3 mL/kg increased the sensitivity of detecting fluid responders and nonresponders based on measurement of CO (70). In resource-limited regions where measurement of CO or SV may not be possible, a >15% increase in pulse pressure could indicate that the patient is fluid responsive utilizing a passive leg-raise test for 60−90 seconds (71, 72).",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 13
+    }
+  },
+  {
+    "id": "99d0c011-fcd4-4c0a-942f-4bf28ba10db2",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with septic shock on vasopressors, we recommend an initial target mean arterial pressure (MAP) of 65 mm Hg over higher MAP targets. For adults with sepsis or septic shock who require ICU admission, we suggest admitting the patients to the ICU within 6 hours.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 14
+    }
+  },
+  {
+    "id": "61b82793-f23b-4509-a9bc-3b974ec5e8fc",
+    "embedding_text": "Disease: sepsis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: For adults with suspected sepsis or septic shock but unconfirmed infection, we recommend continuously re-evaluating and searching for alternative diagnoses and discontinuing empiric antimicrobials if an alternative cause of illness is demonstrated or strongly suspected.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "SSC_SEPSIS_2021",
+      "page": 15
+    }
+  },
+  {
+    "id": "64c911db-74ca-4ca1-b838-1bd59cb2f525",
+    "embedding_text": "Disease: sepsis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Delivering antimicrobials to patients with sepsis or septic shock should therefore be treated as an emergency. We therefore suggest initiating antibiotics in patients with possible sepsis without shock as soon as sepsis appears to be the most likely diagnosis, and no later than 3 hours after sepsis was first suspected if concern for sepsis persists at that time. For adults with possible sepsis without shock, we recommend rapid assessment of the likelihood of infectious versus non-infectious causes of acute illness.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "SSC_SEPSIS_2021",
+      "page": 16
+    }
+  },
+  {
+    "id": "c6837b59-27f2-4dd8-977f-10594d8f1e89",
+    "embedding_text": "Disease: sepsis\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: For patients with confirmed/very likely sepsis, we recommend antimicrobials be administered immediately. For patients with possible sepsis without shock, we recommend a rapid assessment of infectious and noninfectious etiologies of illness be undertaken to determine, within 3 hours, whether antibiotics should be administered or whether antibiotics should be deferred while continuing to monitor the patient closely.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "SSC_SEPSIS_2021",
+      "page": 17
+    }
+  },
+  {
+    "id": "de67838a-f852-4865-b193-27a56b3c7c41",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with sepsis or septic shock at high risk of methicillin-resistant Staphylococcus aureus (MRSA), we recommend using empiric antimicrobials with MRSA coverage over using antimicrobials without MRSA coverage. For adults with sepsis or septic shock at low risk of MRSA, we suggest against using empiric antimicrobials with MRSA coverage, as compared with using antimicrobials without MRSA coverage.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 18
+    }
+  },
+  {
+    "id": "0aadd60b-057f-4b34-8b09-6accfb051a57",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with sepsis or septic shock at high risk of fungal infection, we suggest using empiric antifungal therapy over no antifungal therapy. Weak recommendation, low quality of evidence. For adults with sepsis or septic shock at low risk of fungal infection, we suggest against empiric use of antifungal therapy. Weak recommendation, low quality of evidence.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 19
+    }
+  },
+  {
+    "id": "62ce9a26-edff-474a-8a7a-72311cc4fc71",
+    "embedding_text": "Disease: sepsis\nSignal type: early_warning\nSymptoms: \nDuration: None\nAction: Further evaluation recommended\nGuideline statement: Removal of a potentially infected intravascular access device is considered a part of adequate source control. An intravascular device suspected to be a source of sepsis should be removed after establishing another site for vascular access and following successful initial resuscitation. Prompt removal of intravascular access devices that are a possible source of sepsis or septic shock after other vascular access has been established.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "early_warning",
+      "symptoms": [],
+      "duration": null,
+      "action": "Further evaluation recommended",
+      "source": "SSC_SEPSIS_2021",
+      "page": 23
+    }
+  },
+  {
+    "id": "377badbe-3586-46c9-89d7-351d7dbb18bb",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: We suggest a shorter course of antibiotics, as this is less costly, has fewer undesirable effects without impacting adversely on outcomes.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 24
+    }
+  },
+  {
+    "id": "6f193c2e-ab54-4bc9-b562-39f6914e262c",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: We suggest using procalcitonin along with clinical evaluation to decide when to discontinue antimicrobials in adults with an initial diagnosis of sepsis or septic shock and adequate source control, if the optimal duration of therapy is unclear and if procalcitonin is available.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 25
+    }
+  },
+  {
+    "id": "dfd989c0-39cf-49c8-8dc4-a9725f34103d",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with sepsis or septic shock, we recommend using crystalloids as first-line fluid for resuscitation. Strong recommendation, moderate quality of evidence. For adults with sepsis or septic shock, we suggest using balanced crystalloids instead of normal saline for resuscitation. Weak recommendation, low quality of evidence. For adults with sepsis or septic shock, we suggest using albumin in patients who received large volumes of crystalloids over using crystalloids alone. Weak recommendation, moderate quality of evidence. For adults with sepsis or septic shock, we recommend against using starches for resuscitation. Strong recommendation, high quality of evidence. For adults with sepsis and septic shock, we suggest against using gelatin for resuscitation. Weak recommendation, moderate quality.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 26
+    }
+  },
+  {
+    "id": "b72c4ca5-7168-4d24-a489-b5c5de94bdaf",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with septic shock, we recommend using norepinephrine as the first-line agent over other vasopressors. Strong recommendation. Dopamine. High quality evidence. Vasopressin. Moderate-quality evidence. Epinephrine. Low-quality evidence. Selepressin. Low-quality evidence. Angiotensin II. Very low-quality evidence. In settings where norepinephrine is not available, epinephrine or dopamine can be used as an alternative, but we encourage efforts to improve the availability of norepinephrine. Special attention should be given to patients at risk for arrhythmias when using dopamine and epinephrine. For adults with septic shock on norepinephrine with inadequate MAP levels, we suggest adding vasopressin instead of escalating the dose of norepinephrine. Weak recommendation, moderate-quality evidence. Remark: In our practice, vasopressin is usually started when the dose of norepinephrine is in the range of 0.25−0.5 μg/kg/min. For adults with septic shock and inadequate MAP levels despite norepinephrine and vasopressin, we suggest adding epinephrine. Weak recommendation, low-quality evidence. For adults with septic shock, we suggest against using terlipressin. Weak recommendation, low quality of evidence.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 28
+    }
+  },
+  {
+    "id": "33340e44-20c9-4d4c-af4e-dc598a76cf22",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with septic shock and cardiac dysfunction with persistent hypoperfusion despite adequate volume status and arterial blood pressure, we suggest either adding dobutamine to norepinephrine or using epinephrine alone. Weak recommendation, low quality of evidence.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 31
+    }
+  },
+  {
+    "id": "f128347f-9b31-40b2-a9f8-e6c29f237016",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: A systematic review of observational studies showed that the risk of limb ischemia and bleeding was less than 1% for radial catheters, and the risk of limb ischemia and bleeding was less than 1% and 1.58%, respectively for femoral catheters. The most common complication was localized hematoma, 14% for radial and 6% for femoral catheters. Ultrasound guidance may increase the first attempt success rate and decrease the complication rate. A systematic review showed higher risk of infections when femoral arterial catheters were used compared to radial artery catheters (RR, 1.93; 95% CI, 1.32–2.84), and the overall pooled incidence of bloodstream infection was 0.96 per 1,000 catheter days. Arterial catheters should be removed as soon as continuous hemodynamic monitoring is no longer required to minimize the risk of complications. The prompt initiation of vasopressors to restore blood pressure is an integral component of the management of septic shock. Vasopressors have been traditionally administered via a central venous access due to concerns of extravasation, local tissue ischemia and injury if administered peripherally. However, the process of securing central venous access can be time consuming and requires specialized equipment and training that may not be available in under resourced settings even in high income countries, leading to a delayed initiation of vasopressors. A small study (n = 263) randomly allocated patients to receive peripheral vascular access or a central access. The need for vasopressor was the indication for venous access in 70% of the patients. The incidence of major catheter-related complications was higher in those randomized to peripheral venous lines with no significant difference in the incidence of minor catheter-related complication. The most common peripheral venous line complication was difficulty in placement. Almost half of the patients assigned to the peripheral venous line group required a second attempt at venous access. For adults with septic shock, we suggest using invasive monitoring of arterial blood pressure over noninvasive monitoring, as soon as practical and if resources are available. For adults with septic shock, we suggest starting vasopressors peripherally to restore MAP rather than delaying initiation until a central venous access is secured. When using vasopressors peripherally, they should be administered only for a short period of time and in a vein in or proximal to the antecubital fossa.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 32
+    }
+  },
+  {
+    "id": "bba84586-74e6-4d67-aa94-59d7690b8893",
+    "embedding_text": "Disease: sepsis\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: If the infusion of vasopressors is still needed after a short period of time, as soon as practical and if resources are available, they should be infused through a central venous access to minimize the risk of complications.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "SSC_SEPSIS_2021",
+      "page": 33
+    }
+  },
+  {
+    "id": "4bc47406-a127-4b75-ba79-692f8ffa1be1",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with sepsis-induced ARDS, we recommend using a low tidal volume ventilation strategy (6 mL/kg), over a high tidal volume strategy (> 10 mL/kg).",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 36
+    }
+  },
+  {
+    "id": "8d543489-3322-4aae-a2f1-5c5cfac09e66",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with moderate to severe sepsis-induced ARDS, we suggest using higher PEEP over lower PEEP.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 37
+    }
+  },
+  {
+    "id": "056d1b5b-ceaf-48e0-b23b-77573e6dbc0c",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: We therefore suggest that low tidal volume ventilation be used in all patients with sepsis who are receiving mechanical ventilation to avoid underuse or delayed use of this intervention.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 38
+    }
+  },
+  {
+    "id": "50dacc81-e215-47e9-b242-e28bf7ba66ab",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with septic shock and an ongoing requirement for vasopressor therapy we suggest using IV corticosteroids.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 40
+    }
+  },
+  {
+    "id": "9a2208a0-7f01-4b70-ba5f-9e28ab27d299",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Critically ill patients are at risk for deep vein thrombosis (DVT) as well as pulmonary embolism (PE). The incidence of DVT acquired in the ICU may be as high as 10% (497), the incidence of acquired PE may be 2%–4% (498, 499).",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 43
+    }
+  },
+  {
+    "id": "debf0145-64f9-413b-ac9a-343d16a41528",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Weak recommendation against the use of RRT in patients with sepsis and AKI for increases in creatinine or oliguria alone, and without other absolute indications for dialysis (uremic complications, refractory academia, refractory fluid overload or hyperkalemia).",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 44
+    }
+  },
+  {
+    "id": "9c41b7cf-dcd9-461d-8cbc-d9a4623d2cfd",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: The panel made a strong recommendation for the initiation of insulin therapy at a glucose level of ≥ 180 mg/dL (10 mmol/L).",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 45
+    }
+  },
+  {
+    "id": "9991718c-6f45-44e8-a12f-35d7b54c312e",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with sepsis or septic shock, we recommend discussing goals of care and prognosis with patients and families over no such discussion. For adults with sepsis or septic shock, we suggest addressing goals of care early (within 72 hours) over late (72 hours or later).",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 47
+    }
+  },
+  {
+    "id": "653e28fc-c6bd-4b4a-a4bd-65a6a79ce905",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Despite lack of evidence, the panel recognized that discussion of prognosis and exploration of goals of care with patients and/or family is a necessary precondition to determine patient treatment preferences and providing value-concordant care. Thus, the panel made a best practice recommendation to discuss goals of care and prognosis with patients and families.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 48
+    }
+  },
+  {
+    "id": "26d8eecc-9deb-4ee3-858b-cff93c922562",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: The panel suggests against routine formal palliative care consultation for all patients with sepsis or septic shock, instead using clinician judgment to determine which patients and families may benefit from a palliative care consultation.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 49
+    }
+  },
+  {
+    "id": "b40ed1d3-c008-4da3-a73e-943713d75fc8",
+    "embedding_text": "Disease: sepsis\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: For adults with sepsis or septic shock and their families, we recommend the clinical team provide the opportunity to participate in shared decision making in post-ICU and hospital discharge planning to ensure discharge plans are acceptable and feasible.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "SSC_SEPSIS_2021",
+      "page": 52
+    }
+  },
+  {
+    "id": "c30941ed-87d1-4acd-8811-e4cac1194f75",
+    "embedding_text": "Disease: sepsis\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: We suggest offering referral to post-critical illness clinics where available. While efficacy data are equivocal, these programs are consistently well-liked by patients and offer an environment to learn about challenges sepsis survivors face, as well as to pilot and test interventions for enhancing recovery.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "SSC_SEPSIS_2021",
+      "page": 55
+    }
+  },
+  {
+    "id": "eb0320e4-fade-456f-8423-b655c596aaba",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Effectiveness of arterial, venous, and capillary blood lactate as a sepsis triage tool in ED patients.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 60
+    }
+  },
+  {
+    "id": "cdbf4362-7b48-44fd-b504-37fca74bebf9",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: hypotension\nDuration: None\nAction: None\nGuideline statement: Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [
+        "hypotension"
+      ],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 61
+    }
+  },
+  {
+    "id": "52ab9297-8e6a-476c-8510-3440ac124152",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: early goal-directed therapy was initiated in the emergency department.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 62
+    }
+  },
+  {
+    "id": "cc9063cd-28e3-48df-8666-b58d6f2b4282",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In patients with sepsis, procalcitonin can be used to shorten antibiotic treatment duration.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 69
+    }
+  },
+  {
+    "id": "7e703ac0-8a19-49f4-8199-315387763207",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: If a patient has a lactate level > 4 mmol/L, they are at high risk for mortality and should be escalated to the ICU for closer monitoring and management.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 70
+    }
+  },
+  {
+    "id": "e80877fc-6a00-43d7-a731-c00be67b6a72",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: During mechanical ventilation in the ICU, the presence of acute respiratory distress syndrome (ARDS) is an early warning sign that may indicate a severe disease progression if not promptly treated.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 72
+    }
+  },
+  {
+    "id": "780d6c4e-0d8c-4dd3-86b2-fe2fd90a7ba9",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Patients with severe acute respiratory distress syndrome (ARDS) require escalation of care, including referral to an intensive care unit (ICU) and consideration of prone positioning and low-volume pressure-limited ventilation to improve survival.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 73
+    }
+  },
+  {
+    "id": "b841f90d-08d5-46ea-86e1-fbe21ca4f134",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: Hydrocortisone, vitamin C, and thiamine for the treatment of severe sepsis and septic shock: A retrospective before-after study.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 76
+    }
+  },
+  {
+    "id": "59c0fcc3-1956-4cb2-905e-dfac7dc1627d",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: We recommend against using qSOFA compared with SIRS, NEWS, or MEWS as a single screening tool for sepsis or septic shock.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 1
+    }
+  },
+  {
+    "id": "c14220c8-e68a-476f-ada9-d0c86165fddf",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with septic shock, we suggest using capillary refill time to guide resuscitation as an adjunct to other measures of perfusion. We recommend that treatment and resuscitation begin immediately. For adults with septic shock on vasopressors, we recommend an initial target mean arterial pressure (MAP) of 65 mm Hg over higher MAP targets. For adults with sepsis or septic shock who require ICU admission, we suggest admitting the patients to the ICU within 6 hr.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 2
+    }
+  },
+  {
+    "id": "a2ebe4b7-1c6b-4cc7-aacd-423ebdeeef33",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with suspected sepsis or septic shock but unconfirmed infection, we recommend continuously re-evaluating and searching for alternative diagnoses and discontinuing empiric antimicrobials if an alternative cause of illness is demonstrated or strongly suspected. For adults with possible septic shock or a high likelihood for sepsis, we recommend administering antimicrobials immediately, ideally within 1 hr of recognition. For adults with possible sepsis without shock, we recommend rapid assessment of the likelihood of infectious versus noninfectious causes of acute illness. For adults with possible sepsis without shock, we suggest a time-limited course of rapid investigation and if concern for infection persists, the administration of antimicrobials within 3 hr from the time when sepsis was first recognized. For adults with a low likelihood of infection and without shock, we suggest deferring antimicrobials while continuing to closely monitor the patient.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 3
+    }
+  },
+  {
+    "id": "6392b992-39da-451b-b3c4-e94f4d6688d0",
+    "embedding_text": "Disease: sepsis\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: For adults with sepsis or septic shock at low risk of MRSA, we suggest against using empiric antimicrobials with MRSA coverage, as compared with using antimicrobials without MRSA coverage. For adults with sepsis or septic shock and high risk for multidrug resistant (MDR) organisms, we suggest using two antimicrobials with gram-negative coverage for empiric treatment over one gram-negative agent. For adults with sepsis or septic shock and low risk for multidrug resistant (MDR) organisms, we suggest against using two gram-negative agents for empiric treatment, as compared to one gram-negative agent.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "SSC_SEPSIS_2021",
+      "page": 4
+    }
+  },
+  {
+    "id": "0df81449-e61e-495c-afac-3225d5e77d73",
+    "embedding_text": "Disease: sepsis\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: For adults with sepsis or septic shock, we recommend rapidly identifying or excluding a specific anatomical diagnosis of infection that requires emergent source control and implementing any required source control intervention as soon as medically and logistically practical.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "SSC_SEPSIS_2021",
+      "page": 5
+    }
+  },
+  {
+    "id": "a945f74c-3dd6-488d-816a-5dbfb481c847",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with septic shock, we recommend using norepinephrine as the first-line agent over other vasopressors. For adults with septic shock on norepinephrine with inadequate mean arterial pressure levels, we suggest adding vasopressin instead of escalating the dose of norepinephrine. For adults with septic shock and inadequate mean arterial pressure levels despite norepinephrine and vasopressin, we suggest adding epinephrine. For adults with septic shock, we suggest invasive monitoring of arterial blood pressure over noninvasive monitoring, as soon as practical and if resources are available.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 6
+    }
+  },
+  {
+    "id": "38848654-7ae0-43b1-91f4-b1e5881c5525",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: For adults with sepsis-induced ARDS, we recommend using a low tidal volume ventilation strategy (6 mL/kg), over a high tidal volume strategy (> 10 mL/kg). For adults with sepsis-induced severe ARDS, we recommend using an upper limit goal for plateau pressures of 30 cm H2O, over higher plateau pressures.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 7
+    }
+  },
+  {
+    "id": "85f672e3-189d-479e-b1aa-6d4ec58fde8e",
+    "embedding_text": "Disease: sepsis\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: For adults with sepsis-induced severe ARDS, we suggest using Veno-venous (VV) ECMO when conventional mechanical ventilation fails in experienced centers with the infrastructure in place to support its use.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "SSC_SEPSIS_2021",
+      "page": 8
+    }
+  },
+  {
+    "id": "3572c666-4bd7-4913-b287-369bedcbb451",
+    "embedding_text": "Disease: sepsis\nSignal type: severity\nSymptoms: \nDuration: None\nAction: None\nGuideline statement: In adults with sepsis or septic shock and AKI, we suggest using either continuous or intermittent renal replacement therapy.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "severity",
+      "symptoms": [],
+      "duration": null,
+      "action": null,
+      "source": "SSC_SEPSIS_2021",
+      "page": 9
+    }
+  },
+  {
+    "id": "1c08b190-9c63-4a06-b865-4c90caa1cf40",
+    "embedding_text": "Disease: sepsis\nSignal type: escalation\nSymptoms: \nDuration: None\nAction: Immediate referral or urgent management\nGuideline statement: For adults with sepsis or septic shock, we suggest referral to peer support groups over no such referral.",
+    "metadata": {
+      "disease": "sepsis",
+      "signal_type": "escalation",
+      "symptoms": [],
+      "duration": null,
+      "action": "Immediate referral or urgent management",
+      "source": "SSC_SEPSIS_2021",
+      "page": 10
+    }
+  }
+]
