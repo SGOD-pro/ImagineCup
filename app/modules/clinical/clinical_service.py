@@ -1,13 +1,10 @@
 from fastapi import UploadFile, HTTPException
 from typing import List
-
 from app.domain.lab.normalizer import normalize_labs
 from app.ai.state import ClinicalGraphState
 from app.infrastructure.azure.ocr_client import OCRClient
 from app.infrastructure.azure.blob_storage import BlobStorage
 from app.ai.llm import NvidiaLLM
-# from app.ai.graph import build_clinical_graph
-
 class ClinicalService:
     def __init__(self, blob: BlobStorage, ocr: OCRClient, llm: NvidiaLLM, graph):
         self.blob = blob
@@ -49,20 +46,22 @@ class ClinicalService:
 
         return {"ocr_texts": documents}
 
+
     async def analyze_labs(self, req):
+        # 1. Merge OCR text
         merged_text = "\n".join(d["full_text"] for d in req.ocr_texts)
 
+        # 2. LLM parses raw tests (NO MEDICAL LOGIC)
         raw = await self.llm.parse_labs(merged_text)
-        # parsed = raw if isinstance(raw, str) else __import__("json").loads(raw)
+        print(raw)
         parsed = __import__("json").loads(raw)
-
-        normalized = normalize_labs(parsed["tests"])
-
+        normalized = normalize_labs(parsed["tests"], req.context)
         return {
             "labs": normalized,
             "symptoms": req.user_symptoms,
-            "context": req.context,
+            "context": req.context
         }
+
 
     async def analyze_case(self, req):
         state: ClinicalGraphState = {
@@ -70,12 +69,19 @@ class ClinicalService:
             "patient_age": req.context.age,
             "patient_gender": req.context.sex,
             "lab_results": req.labs,
+            "clinical_signals": {},
+            
             "structured_symptoms": None,
             "evidence": [],
+            "lab_flags": {},
+            "reasoning_summary": {},
+
             "hypotheses": [],
             "risk_level": None,
             "triage_rationale": None,
             "escalation_required": False,
+
+            "safety_notes": None
         }
         result=await self.graph.ainvoke(state)
         return result

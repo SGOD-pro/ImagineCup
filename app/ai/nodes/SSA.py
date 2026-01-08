@@ -28,14 +28,16 @@ Rules:
 - Output JSON only, no extra text.
 """
 
-     llm = NvidiaLLM(model_name="nvidia/nemotron-3-nano-30b-a3b", temp=0.2)
+     llm = NvidiaLLM(model_name="nvidia/nemotron-3-nano-30b-a3b", temp=0.25)
      response = await run_in_threadpool(
             llm.model.invoke,
             prompt,
         )
      # response = llm.model.invoke(prompt)
      try:
+          print(response.content)
           structured = json.loads(str(response.content))
+          print(structured)
           required_keys = {"chief_complaints", "duration", "severity", "red_flags"}
           if not required_keys.issubset(structured.keys()):
                raise ValueError("SSA output schema invalid")

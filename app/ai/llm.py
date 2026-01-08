@@ -2,13 +2,13 @@ from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from langchain.messages import HumanMessage
 from fastapi.concurrency import run_in_threadpool
 from app.core import settings
-from app.ai.promts import LAB_PROMPT
+from app.ai.prompts import LAB_PROMPT
 
 class NvidiaLLM:
     def __init__(self,
                  model_name: str="nvidia/nvidia-nemotron-nano-9b-v2", 
                  temp: float=.5, 
-                 max_tokens:int= 1024):
+                 max_tokens:int= 4096):
         self.model = ChatNVIDIA(
             model_name=model_name,
             temp=temp,

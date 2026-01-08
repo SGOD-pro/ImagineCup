@@ -27,6 +27,7 @@ class BlobStorage:
             "url": f"{container_client.url}/{blob_name}?{sas}",
             "content_type": props.content_settings.content_type,
         }
+        
     def upload_stream(self,file_stream, content_type: str) -> str:
         blob_name = f"{uuid.uuid4()}"
         blob_client = container_client.get_blob_client(blob_name)

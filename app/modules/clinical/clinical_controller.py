@@ -27,7 +27,7 @@ async def run_ocr(
     return await service.extract_ocr(req.blob_ids)
 
 
-@router.post("/analyze")
+@router.post("/ocr-normalization")
 async def analyze_labs(
     req: AnalysisRequest,
     service: ClinicalService = Depends(get_clinical_service),
