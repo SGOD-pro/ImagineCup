@@ -13,11 +13,11 @@ router = APIRouter(prefix="/clinical", tags=["Clinical"])
 
 @router.post("/upload")
 async def upload_files(
-    files: list[UploadFile] = File(...),
+    # files: list[UploadFile] = File(...),
+    file: UploadFile = File(...),
     service: ClinicalService = Depends(get_clinical_service),
 ):
-    return await service.upload_files(files)
-
+    return await service.upload_files(file)
 
 @router.post("/ocr")
 async def run_ocr(

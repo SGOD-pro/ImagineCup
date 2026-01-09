@@ -14,5 +14,5 @@ class AnalysisRequest(BaseModel):
 
 class AnalysisCaseRequest(BaseModel):
     labs: List[Dict[str, Any]]
-    symptoms: str
+    user_symptoms: str
     context: Context
