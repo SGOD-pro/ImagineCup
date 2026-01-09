@@ -1,19 +1,21 @@
-FROM node:22-alpine
-
-RUN useradd -m myuser
+# ---- Build stage ----
+FROM node:22-alpine AS build
 
 WORKDIR /app
 
+COPY package.json package-lock.json ./
+RUN npm ci --force
 
-COPY package.json package.json
-RUN npm ci
+
 
 COPY . .
-RUN chown -R appuser:myuser /app
-
-USER myuser
-
-EXPOSE 8080
-
 RUN npm run build
-CMD [ "npm", "start"]
+
+# ---- Runtime stage ----
+FROM nginx:alpine
+
+COPY --from=build /app/dist /usr/share/nginx/html
+
+EXPOSE 80
+
+CMD ["nginx", "-g", "daemon off;"]
