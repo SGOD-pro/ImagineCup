@@ -1,0 +1,48 @@
+# ---- Git ----
+.git
+.gitignore
+
+# ---- Node ----
+node_modules
+frontend/node_modules
+frontend/dist
+frontend/.vite
+
+# ---- Python ----
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv
+env
+
+# ---- Env / Secrets ----
+.env
+.env.*
+*.key
+*.pem
+
+# ---- Docker ----
+docker-compose.yml
+Dockerfile.dev
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs / Cache ----
+logs
+*.log
+
+# ---- IDE ----
+.vscode
+.idea
+
+# ---- Large data ----
+data
+datasets
+embeddings
+*.pdf
+*.jpg
+*.png
