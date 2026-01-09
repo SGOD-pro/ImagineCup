@@ -15,7 +15,15 @@ venv/
 .venv/
 env/
 ENV/
+
 .python-version
+# Python virtual environment (Windows)
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+venv/
+.venv/
 
 # =========================
 # FastAPI / Uvicorn
@@ -71,5 +79,4 @@ docker-compose.override.yml
 # =========================
 .DS_Store
 Thumbs.db
-Lib/
 Pdfs
