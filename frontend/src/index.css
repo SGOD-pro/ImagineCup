@@ -1,0 +1,185 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base { 
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap');
+}
+
+/* ClinAssist AI Design System - Clinical, Professional, Calming */
+
+@layer base {
+  :root {
+    /* Core backgrounds */
+    --background: 210 50% 98%;
+    --foreground: 220 25% 20%;
+
+    /* Cards and surfaces */
+    --card: 0 0% 100%;
+    --card-foreground: 220 25% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 25% 20%;
+
+    /* Primary - Cool Sky */
+    --primary: 204 100% 64%;
+    --primary-foreground: 220 60% 15%;
+
+    /* Secondary - Wisteria Blue */
+    --secondary: 222 74% 69%;
+    --secondary-foreground: 220 60% 15%;
+
+    /* Muted - Soft gray-blue */
+    --muted: 210 30% 95%;
+    --muted-foreground: 220 15% 50%;
+
+    /* Accent - Petal Pink */
+    --accent: 306 48% 55%;
+    --accent-foreground: 0 0% 100%;
+
+    /* Clinical risk colors */
+    --risk-low: 142 50% 85%;
+    --risk-low-foreground: 142 60% 25%;
+    --risk-medium: 45 90% 85%;
+    --risk-medium-foreground: 45 80% 25%;
+    --risk-critical: 0 70% 88%;
+    --risk-critical-foreground: 0 60% 30%;
+
+    /* Semantic colors */
+    --destructive: 0 70% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 210 30% 90%;
+    --input: 210 30% 92%;
+    --ring: 204 100% 64%;
+
+    --radius: 0.75rem;
+
+    /* New vibrant palette */
+    --dragonfruit: 333 100% 64%;
+    --dragonfruit-foreground: 0 0% 100%;
+    --petal-pink: 306 48% 55%;
+    --petal-pink-foreground: 0 0% 100%;
+    --bright-lavender: 270 52% 65%;
+    --bright-lavender-foreground: 0 0% 100%;
+    --wisteria: 222 74% 69%;
+    --wisteria-foreground: 220 60% 15%;
+    --cool-sky: 204 100% 64%;
+    --cool-sky-foreground: 220 60% 15%;
+
+    /* Legacy palette */
+    --pink-orchid: 292 34% 78%;
+    --pastel-petal: 340 100% 89%;
+    --blush-pop: 339 100% 84%;
+    --icy-blue: 209 97% 87%;
+    --sky-blue: 213 100% 82%;
+
+    /* Sidebar */
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 220 25% 8%;
+    --foreground: 210 40% 95%;
+
+    --card: 220 25% 11%;
+    --card-foreground: 210 40% 95%;
+
+    --popover: 220 25% 11%;
+    --popover-foreground: 210 40% 95%;
+
+    /* Primary - Cool Sky (adjusted for dark) */
+    --primary: 204 100% 55%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Secondary - Wisteria Blue */
+    --secondary: 222 74% 60%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 220 20% 16%;
+    --muted-foreground: 210 20% 60%;
+
+    /* Accent - Petal Pink */
+    --accent: 306 48% 50%;
+    --accent-foreground: 0 0% 100%;
+
+    --risk-low: 142 45% 28%;
+    --risk-low-foreground: 142 50% 85%;
+    --risk-medium: 45 65% 32%;
+    --risk-medium-foreground: 45 90% 85%;
+    --risk-critical: 0 55% 32%;
+    --risk-critical-foreground: 0 70% 90%;
+
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 20% 18%;
+    --input: 220 20% 18%;
+    --ring: 204 100% 55%;
+
+    /* Vibrant palette - dark mode */
+    --dragonfruit: 333 100% 58%;
+    --dragonfruit-foreground: 0 0% 100%;
+    --petal-pink: 306 48% 50%;
+    --petal-pink-foreground: 0 0% 100%;
+    --bright-lavender: 270 52% 58%;
+    --bright-lavender-foreground: 0 0% 100%;
+    --wisteria: 222 74% 60%;
+    --wisteria-foreground: 0 0% 100%;
+    --cool-sky: 204 100% 55%;
+    --cool-sky-foreground: 0 0% 100%;
+
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Source Sans 3', 'Inter', system-ui, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  .clinical-card {
+    @apply bg-card rounded-xl border border-border shadow-sm;
+  }
+
+  .clinical-input {
+    @apply bg-input border-border focus:ring-2 focus:ring-ring focus:border-transparent transition-all duration-200;
+  }
+
+  .risk-badge-low {
+    @apply bg-risk-low text-risk-low-foreground;
+  }
+
+  .risk-badge-medium {
+    @apply bg-risk-medium text-risk-medium-foreground;
+  }
+
+  .risk-badge-critical {
+    @apply bg-risk-critical text-risk-critical-foreground;
+  }
+}
